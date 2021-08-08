@@ -1,0 +1,1841 @@
+.websiteBody{
+  margin: 0;
+}.Page{
+  display:block;
+  margin:auto;
+  width:100%;
+  height:auto;
+  pointer-events:auto;
+}
+.Page-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:1;
+}
+.Frame{
+  position:relative;
+  z-index:2;
+  pointer-events:none;
+  width:100%;
+  margin-left:0;
+  min-width:200px;
+  max-width:1440px;
+  margin:auto;
+  background-color:rgba(255, 255, 255, 1);
+  overflow:hidden;
+}
+.Frame-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:2;
+}
+.Rectangle-3{
+  position:relative;
+  z-index:4;
+  pointer-events:none;
+  margin-left:0px;
+  width:720px;
+  min-width:720px;
+  height:691px;
+  margin-top:0px;
+  margin-bottom:4289px;
+  min-height:691px;
+  background-color:rgba(255, 255, 255, 1);
+}
+.Rectangle-3-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:4;
+}
+.Rectangle-2{
+  position:relative;
+  z-index:3;
+  pointer-events:none;
+  margin-left:720px;
+  width:720px;
+  min-width:720px;
+  height:691px;
+  margin-top:-4980px;
+  margin-bottom:4289px;
+  min-height:691px;
+  background-color:rgba(238, 247, 242, 1);
+}
+.Rectangle-2-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:3;
+}
+.Home{
+  position:relative;
+  z-index:11;
+  pointer-events:auto;
+  margin-left:793px;
+  width:81px;
+  min-width:81px;
+  margin-top:-4910px;
+  margin-bottom:4874px;
+  min-height:36px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Lato;
+  font-weight:300;
+  font-size:25px;
+  line-height:30px;
+}
+.Home-outer{
+  position:relative;
+  display:flex;
+  pointer-events:auto;
+  z-index:11;
+}
+.News{
+  position:relative;
+  z-index:8;
+  pointer-events:auto;
+  margin-left:1153px;
+  width:76px;
+  min-width:76px;
+  margin-top:-4905px;
+  margin-bottom:4881px;
+  min-height:24px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Lato;
+  font-weight:300;
+  font-size:25px;
+  line-height:30px;
+}
+.News-outer{
+  position:relative;
+  display:flex;
+  pointer-events:auto;
+  z-index:8;
+}
+.How-to-Save-Water{
+  position:relative;
+  z-index:7;
+  pointer-events:none;
+  margin-left:908px;
+  width:211px;
+  min-width:211px;
+  margin-top:-4913px;
+  margin-bottom:4883px;
+  min-height:30px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Lato;
+  font-weight:300;
+  font-size:25px;
+  line-height:30px;
+}
+.How-to-Save-Water-outer{
+  position:relative;
+  display:flex;
+  pointer-events:auto;
+  z-index:7;
+}
+.How-to-Save-Water-1{
+  position:relative;
+  z-index:6;
+  pointer-events:auto;
+  margin-left:908px;
+  width:211px;
+  min-width:211px;
+  margin-top:-4913px;
+  margin-bottom:4883px;
+  min-height:30px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Lato;
+  font-weight:300;
+  font-size:25px;
+  line-height:30px;
+}
+.How-to-Save-Water-1-outer{
+  position:relative;
+  display:flex;
+  pointer-events:auto;
+  z-index:6;
+}
+.Resources{
+  position:relative;
+  z-index:9;
+  pointer-events:auto;
+  margin-left:1263px;
+  width:112px;
+  min-width:110px;
+  margin-top:-4910px;
+  margin-bottom:4880px;
+  min-height:30px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Lato;
+  font-weight:300;
+  font-size:25px;
+  line-height:30px;
+}
+.Resources-outer{
+  position:relative;
+  display:flex;
+  pointer-events:auto;
+  z-index:9;
+}
+.Screen-Shot-2021-08-{
+  position:relative;
+  z-index:5;
+  pointer-events:none;
+  margin-left:114px;
+  width:492px;
+  min-width:492px;
+  height:387px;
+  margin-top:-4798px;
+  margin-bottom:4411px;
+  min-height:387px;
+  content:url(https://cdn.glitch.com/f66f0086-87b1-421f-a647-db43da8eccdc%2FScreen_Shot_2021_08_04_at_10_33_1.png?v=1628349815028);
+}
+.Screen-Shot-2021-08--outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:5;
+}
+.Welcome{
+  position:relative;
+  z-index:10;
+  pointer-events:none;
+  margin-left:834px;
+  width:294px;
+  min-width:294px;
+  margin-top:-4693px;
+  margin-bottom:4654px;
+  min-height:39px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Abhaya Libre;
+  font-weight:400;
+  font-size:64px;
+  line-height:30px;
+}
+.Welcome-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:10;
+}
+.q-Children-of-a-cult{
+  position:relative;
+  z-index:71;
+  pointer-events:none;
+  margin-left:817px;
+  width:574px;
+  min-width:574px;
+  margin-top:-4634px;
+  margin-bottom:4516px;
+  min-height:118px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Abhaya Libre;
+  font-weight:400;
+  font-size:24px;
+  line-height:30px;
+}
+.q-Children-of-a-cult-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:71;
+}
+.q-{
+  position:relative;
+  z-index:73;
+  pointer-events:none;
+  margin-left:1175px;
+  width:12px;
+  min-width:12px;
+  margin-top:-4537px;
+  margin-bottom:4507px;
+  min-height:30px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Abhaya Libre;
+  font-weight:400;
+  font-size:24px;
+  line-height:30px;
+}
+.q--outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:73;
+}
+.William-Ashworth{
+  position:relative;
+  z-index:72;
+  pointer-events:none;
+  margin-left:1196px;
+  width:177px;
+  min-width:177px;
+  margin-top:-4531px;
+  margin-bottom:4501px;
+  min-height:30px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Abhaya Libre;
+  font-weight:400;
+  font-size:24px;
+  line-height:30px;
+}
+.William-Ashworth-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:72;
+}
+.Line-13{
+  position:relative;
+  z-index:24;
+  pointer-events:none;
+  margin-left:0px;
+  width:1440px;
+  min-width:1440px;
+  margin-top:-4251px;
+  margin-bottom:4251px;
+  min-height:undefinedpx;
+  border:1px solid rgba(229, 229, 229, 1);
+}
+.Line-13-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:24;
+}
+.water-scarcity-child{
+  position:relative;
+  z-index:13;
+  pointer-events:auto;
+  margin-left:0px;
+  width:1440px;
+  min-width:1440px;
+  height:550px;
+  margin-top:-4230px;
+  margin-bottom:3680px;
+  min-height:550px;
+  content:url(https://cdn.glitch.com/f66f0086-87b1-421f-a647-db43da8eccdc%2Fwater_scarcity_children_washing_hands_1.png?v=1628350044751);
+}
+.water-scarcity-child-outer{
+  position:relative;
+  display:flex;
+  pointer-events:auto;
+  z-index:13;
+}
+.Rectangle-15{
+  position:relative;
+  z-index:12;
+  pointer-events:none;
+  margin-left:49px;
+  width:0px;
+  min-width:0px;
+  height:404px;
+  margin-top:-4165px;
+  margin-bottom:3761px;
+  min-height:404px;
+  content:url(https://cdn.glitch.com/f66f0086-87b1-421f-a647-db43da8eccdc%2FRectangle_15.png?v=1628434630516);
+}
+.Rectangle-15-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:12;
+}
+.What-is-the-Problem-{
+  position:relative;
+  z-index:15;
+  pointer-events:none;
+  margin-left:554px;
+  width:349px;
+  min-width:349px;
+  margin-top:-4113px;
+  margin-bottom:4083px;
+  min-height:30px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Lato;
+  font-weight:800;
+  font-size:36px;
+  line-height:30px;
+}
+.What-is-the-Problem--outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:15;
+}
+.About-2-6-billion-pe{
+  position:relative;
+  z-index:14;
+  pointer-events:none;
+  margin-left:290px;
+  width:860px;
+  min-width:860px;
+  margin-top:-3999px;
+  margin-bottom:3751px;
+  min-height:248px;
+  text-align:center;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:;
+  font-weight:400;
+  font-size:36px;
+  line-height:30px;
+}
+.About-2-6-billion-pe-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:14;
+}
+.About-2-6-billion-pe-1{
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Lato;
+  font-weight:300;
+  font-size:36px;
+  line-height:30px;
+}
+.About-2-6-billion-pe-2{
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Lato;
+  font-weight:400;
+  font-size:36px;
+  line-height:30px;
+}
+.About-2-6-billion-pe-3{
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Lato;
+  font-weight:300;
+  font-size:36px;
+  line-height:30px;
+}
+.About-2-6-billion-pe-4{
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Lato;
+  font-weight:400;
+  font-size:36px;
+  line-height:30px;
+}
+.About-2-6-billion-pe-5{
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Lato;
+  font-weight:300;
+  font-size:36px;
+  line-height:30px;
+}
+.About-2-6-billion-pe-6{
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Lato;
+  font-weight:400;
+  font-size:36px;
+  line-height:30px;
+}
+.About-2-6-billion-pe-7{
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Lato;
+  font-weight:300;
+  font-size:36px;
+  line-height:30px;
+}
+.About-2-6-billion-pe-8{
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Lato;
+  font-weight:400;
+  font-size:36px;
+  line-height:30px;
+}
+.About-2-6-billion-pe-9{
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Lato;
+  font-weight:300;
+  font-size:36px;
+  line-height:30px;
+}
+.About-2-6-billion-pe-10{
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Lato;
+  font-weight:400;
+  font-size:36px;
+  line-height:30px;
+}
+.About-2-6-billion-pe-11{
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Lato;
+  font-weight:300;
+  font-size:36px;
+  line-height:30px;
+}
+.About-2-6-billion-pe-12{
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Lato;
+  font-weight:400;
+  font-size:36px;
+  line-height:30px;
+}
+.About-2-6-billion-pe-13{
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Lato;
+  font-weight:300;
+  font-size:36px;
+  line-height:30px;
+}
+.About-2-6-billion-pe-14{
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Lato;
+  font-weight:400;
+  font-size:36px;
+  line-height:30px;
+}
+.About-2-6-billion-pe-15{
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Lato;
+  font-weight:300;
+  font-size:36px;
+  line-height:30px;
+}
+.Line-12{
+  position:relative;
+  z-index:23;
+  pointer-events:none;
+  margin-left:0px;
+  width:1440px;
+  min-width:1440px;
+  margin-top:-3653px;
+  margin-bottom:3653px;
+  min-height:undefinedpx;
+  border:1px solid rgba(229, 229, 229, 1);
+}
+.Line-12-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:23;
+}
+.q2-billion-people-la{
+  position:relative;
+  z-index:22;
+  pointer-events:none;
+  margin-left:1065px;
+  width:323px;
+  min-width:323px;
+  margin-top:-3579px;
+  margin-bottom:3519px;
+  min-height:60px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(104, 163, 227, 1);
+  font-style:normal;
+  font-family:Unkempt;
+  font-weight:400;
+  font-size:24px;
+  line-height:30px;
+}
+.q2-billion-people-la-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:22;
+}
+.q785-million-people-{
+  position:relative;
+  z-index:21;
+  pointer-events:none;
+  margin-left:377px;
+  width:323px;
+  min-width:323px;
+  margin-top:-3573px;
+  margin-bottom:3513px;
+  min-height:60px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(104, 163, 227, 1);
+  font-style:normal;
+  font-family:Unkempt;
+  font-weight:400;
+  font-size:24px;
+  line-height:30px;
+}
+.q785-million-people--outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:21;
+}
+.q2B{
+  position:relative;
+  z-index:18;
+  pointer-events:none;
+  margin-left:700px;
+  width:436px;
+  min-width:436px;
+  margin-top:-3568px;
+  margin-bottom:3497px;
+  min-height:71px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(173, 191, 211, 1);
+  font-style:normal;
+  font-family:Unkempt;
+  font-weight:400;
+  font-size:96px;
+  line-height:30px;
+}
+.q2B-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:18;
+}
+.q785M{
+  position:relative;
+  z-index:17;
+  pointer-events:none;
+  margin-left:-48px;
+  width:436px;
+  min-width:436px;
+  margin-top:-3555px;
+  margin-bottom:3484px;
+  min-height:71px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(173, 191, 211, 1);
+  font-style:normal;
+  font-family:Unkempt;
+  font-weight:400;
+  font-size:96px;
+  line-height:30px;
+}
+.q785M-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:17;
+}
+.q785M-1{
+  position:relative;
+  z-index:16;
+  pointer-events:none;
+  margin-left:-48px;
+  width:436px;
+  min-width:436px;
+  margin-top:-3555px;
+  margin-bottom:3484px;
+  min-height:71px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(173, 191, 211, 1);
+  font-style:normal;
+  font-family:Unkempt;
+  font-weight:400;
+  font-size:96px;
+  line-height:30px;
+}
+.q785M-1-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:16;
+}
+.Line-11{
+  position:relative;
+  z-index:20;
+  pointer-events:none;
+  transform:rotate(90.00000005787075deg);
+  margin-left:1000px;
+  width:88px;
+  min-width:88px;
+  margin-top:-3550px;
+  margin-bottom:3550px;
+  min-height:undefinedpx;
+  border:1px solid rgba(173, 191, 211, 1);
+}
+.Line-11-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:20;
+}
+.Line-10{
+  position:relative;
+  z-index:19;
+  pointer-events:none;
+  transform:rotate(88.71267100332935deg);
+  margin-left:300px;
+  width:89.02px;
+  min-width:89.02px;
+  margin-top:-3550px;
+  margin-bottom:3550px;
+  min-height:undefinedpx;
+  border:1px solid rgba(173, 191, 211, 1);
+}
+.Line-10-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:19;
+}
+.Group-30{
+  position:relative;
+  z-index:42;
+  pointer-events:none;
+  margin-left:0px;
+  width:1440px;
+  min-width:1440px;
+  height:30px;
+  margin-top:-3385px;
+  margin-bottom:3355px;
+  min-height:30px;
+}
+.Group-30-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:42;
+}
+.CRISIS{
+  position:relative;
+  z-index:43;
+  pointer-events:none;
+  margin-left:643px;
+  width:161px;
+  min-width:153px;
+  margin-top:0px;
+  margin-bottom:0px;
+  min-height:30px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Helvetica;
+  font-weight:400;
+  font-size:48px;
+  line-height:30px;
+}
+.CRISIS-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:43;
+}
+.Line-36-2{
+  position:relative;
+  z-index:44;
+  pointer-events:none;
+  transform:rotate(0.08910689573892953deg);
+  margin-left:-5px;
+  width:643px;
+  min-width:643px;
+  margin-top:-15px;
+  margin-bottom:15px;
+  min-height:undefinedpx;
+  border:1px solid rgba(151, 147, 147, 1);
+}
+.Line-36-2-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:44;
+}
+.Line-38-2{
+  position:relative;
+  z-index:45;
+  pointer-events:none;
+  transform:rotate(0.08994620623649273deg);
+  margin-left:809px;
+  width:637px;
+  min-width:637px;
+  margin-top:-14px;
+  margin-bottom:14px;
+  min-height:undefinedpx;
+  border:1px solid rgba(151, 147, 147, 1);
+}
+.Line-38-2-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:45;
+}
+.Line-39-2{
+  position:relative;
+  z-index:47;
+  pointer-events:none;
+  transform:rotate(0.08994621290659126deg);
+  margin-left:809px;
+  width:637px;
+  min-width:637px;
+  margin-top:-8px;
+  margin-bottom:8px;
+  min-height:undefinedpx;
+  border:1px solid rgba(151, 147, 147, 1);
+}
+.Line-39-2-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:47;
+}
+.Line-37-2{
+  position:relative;
+  z-index:46;
+  pointer-events:none;
+  transform:rotate(0.08910689573892953deg);
+  margin-left:-5px;
+  width:643px;
+  min-width:643px;
+  margin-top:-8px;
+  margin-bottom:8px;
+  min-height:undefinedpx;
+  border:1px solid rgba(151, 147, 147, 1);
+}
+.Line-37-2-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:46;
+}
+.Group-29{
+  position:relative;
+  z-index:25;
+  pointer-events:none;
+  margin-left:28px;
+  width:1384px;
+  min-width:1384px;
+  height:1288px;
+  margin-top:-3296px;
+  margin-bottom:2008px;
+  min-height:1288px;
+}
+.Group-29-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:25;
+}
+.Waterorg-Our-Impact-{
+  position:relative;
+  z-index:34;
+  pointer-events:none;
+  margin-left:0px;
+  width:616px;
+  min-width:616px;
+  height:475px;
+  margin-top:0px;
+  margin-bottom:813px;
+  min-height:475px;
+  content:url(https://cdn.glitch.com/f66f0086-87b1-421f-a647-db43da8eccdc%2FWaterorg_Our_Impact_Water_Crisis_Education_Img__1.png?v=1628434637931);
+}
+.Waterorg-Our-Impact--outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:34;
+}
+.A-Children-s-and-Edu{
+  position:relative;
+  z-index:28;
+  pointer-events:none;
+  margin-left:730px;
+  width:539px;
+  min-width:539px;
+  margin-top:-1217px;
+  margin-bottom:1187px;
+  min-height:30px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(104, 163, 227, 1);
+  font-style:normal;
+  font-family:Lato;
+  font-weight:500;
+  font-size:36px;
+  line-height:30px;
+}
+.A-Children-s-and-Edu-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:28;
+}
+.Children-are-frequen{
+  position:relative;
+  z-index:26;
+  pointer-events:none;
+  margin-left:646px;
+  width:738px;
+  min-width:738px;
+  margin-top:-1130px;
+  margin-bottom:813px;
+  min-height:317px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Lato;
+  font-weight:300;
+  font-size:36px;
+  line-height:30px;
+}
+.Children-are-frequen-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:26;
+}
+.schools-lacks-access{
+  position:relative;
+  z-index:32;
+  pointer-events:none;
+  margin-left:713px;
+  width:323px;
+  min-width:323px;
+  margin-top:-740px;
+  margin-bottom:680px;
+  min-height:60px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(104, 163, 227, 1);
+  font-style:normal;
+  font-family:Unkempt;
+  font-weight:400;
+  font-size:24px;
+  line-height:30px;
+}
+.schools-lacks-access-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:32;
+}
+.q3-in-1{
+  position:relative;
+  z-index:30;
+  pointer-events:none;
+  margin-left:308px;
+  width:436px;
+  min-width:436px;
+  margin-top:-722px;
+  margin-bottom:651px;
+  min-height:71px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(173, 191, 211, 1);
+  font-style:normal;
+  font-family:Unkempt;
+  font-weight:400;
+  font-size:96px;
+  line-height:30px;
+}
+.q3-in-1-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:30;
+}
+.Line-14{
+  position:relative;
+  z-index:35;
+  pointer-events:none;
+  transform:rotate(89.99999999999999deg);
+  margin-left:647px;
+  width:83px;
+  min-width:83px;
+  margin-top:-710px;
+  margin-bottom:710px;
+  min-height:undefinedpx;
+  border:1px solid rgba(173, 191, 211, 1);
+}
+.Line-14-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:35;
+}
+.Charity-gifts-for-Ch{
+  position:relative;
+  z-index:37;
+  pointer-events:none;
+  margin-left:768px;
+  width:616px;
+  min-width:616px;
+  height:475px;
+  margin-top:-607px;
+  margin-bottom:132px;
+  min-height:475px;
+  background-image:url(https://cdn.glitch.com/f66f0086-87b1-421f-a647-db43da8eccdc%2FCharity_gifts_for_Children_with_cancer_Foundation_Vanessa_Isabel_1.png?v=1628434618817);
+  background-position:center;
+  background-size:cover;
+  background-repeat:no-repeat;
+  border:1px solid rgba(229, 229, 229, 1);
+  box-sizing:border-box;
+}
+.Charity-gifts-for-Ch-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:37;
+}
+.A-health-crisis{
+  position:relative;
+  z-index:29;
+  pointer-events:none;
+  margin-left:262px;
+  width:220px;
+  min-width:220px;
+  margin-top:-515px;
+  margin-bottom:485px;
+  min-height:30px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(104, 163, 227, 1);
+  font-style:normal;
+  font-family:Lato;
+  font-weight:500;
+  font-size:36px;
+  line-height:30px;
+}
+.A-health-crisis-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:29;
+}
+.The-water-problem-is{
+  position:relative;
+  z-index:27;
+  pointer-events:none;
+  margin-left:3px;
+  width:738px;
+  min-width:738px;
+  margin-top:-449px;
+  margin-bottom:132px;
+  min-height:317px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Lato;
+  font-weight:300;
+  font-size:36px;
+  line-height:30px;
+}
+.The-water-problem-is-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:27;
+}
+.Every-2-minutes-a-ch{
+  position:relative;
+  z-index:33;
+  pointer-events:none;
+  margin-left:713px;
+  width:323px;
+  min-width:323px;
+  margin-top:-82px;
+  margin-bottom:22px;
+  min-height:60px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(104, 163, 227, 1);
+  font-style:normal;
+  font-family:Unkempt;
+  font-weight:400;
+  font-size:24px;
+  line-height:30px;
+}
+.Every-2-minutes-a-ch-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:33;
+}
+.q2-min{
+  position:relative;
+  z-index:31;
+  pointer-events:none;
+  margin-left:305px;
+  width:436px;
+  min-width:436px;
+  margin-top:-71px;
+  margin-bottom:0px;
+  min-height:71px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(173, 191, 211, 1);
+  font-style:normal;
+  font-family:Unkempt;
+  font-weight:400;
+  font-size:96px;
+  line-height:30px;
+}
+.q2-min-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:31;
+}
+.Line-16{
+  position:relative;
+  z-index:36;
+  pointer-events:none;
+  transform:rotate(89.99999999999999deg);
+  margin-left:632px;
+  width:83px;
+  min-width:83px;
+  margin-top:-58px;
+  margin-bottom:58px;
+  min-height:undefinedpx;
+  border:1px solid rgba(173, 191, 211, 1);
+}
+.Line-16-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:36;
+}
+.CAUSES{
+  position:relative;
+  z-index:54;
+  pointer-events:none;
+  margin-left:624px;
+  width:198px;
+  min-width:190px;
+  margin-top:-1896px;
+  margin-bottom:1866px;
+  min-height:30px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Helvetica;
+  font-weight:400;
+  font-size:48px;
+  line-height:30px;
+}
+.CAUSES-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:54;
+}
+.Line-36{
+  position:relative;
+  z-index:55;
+  pointer-events:none;
+  margin-left:0px;
+  width:626px;
+  min-width:626px;
+  height:2px;
+  margin-top:-1883px;
+  margin-bottom:1881px;
+  min-height:2px;
+  content:url(https://cdn.glitch.com/f66f0086-87b1-421f-a647-db43da8eccdc%2FLine_36.png?v=1628434625313);
+}
+.Line-36-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:55;
+}
+.Line-38{
+  position:relative;
+  z-index:56;
+  pointer-events:none;
+  margin-left:817px;
+  width:623px;
+  min-width:623px;
+  height:2px;
+  margin-top:-1882px;
+  margin-bottom:1880px;
+  min-height:2px;
+  content:url(https://cdn.glitch.com/f66f0086-87b1-421f-a647-db43da8eccdc%2FLine_38.png?v=1628434630780);
+}
+.Line-38-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:56;
+}
+.Line-39{
+  position:relative;
+  z-index:58;
+  pointer-events:none;
+  margin-left:817px;
+  width:623px;
+  min-width:623px;
+  height:2px;
+  margin-top:-1876px;
+  margin-bottom:1874px;
+  min-height:2px;
+  content:url(https://cdn.glitch.com/f66f0086-87b1-421f-a647-db43da8eccdc%2FLine_39.png?v=1628434631002);
+}
+.Line-39-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:58;
+}
+.Line-37{
+  position:relative;
+  z-index:57;
+  pointer-events:none;
+  margin-left:0px;
+  width:625.5px;
+  min-width:625.5px;
+  height:2px;
+  margin-top:-1876px;
+  margin-bottom:1874px;
+  min-height:2px;
+  content:url(https://cdn.glitch.com/f66f0086-87b1-421f-a647-db43da8eccdc%2FLine_37.png?v=1628434630538);
+}
+.Line-37-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:57;
+}
+.Rectangle-19{
+  position:relative;
+  z-index:61;
+  pointer-events:none;
+  margin-left:14px;
+  width:454px;
+  min-width:454px;
+  height:437px;
+  margin-top:-1784px;
+  margin-bottom:1347px;
+  min-height:437px;
+  content:url(https://cdn.glitch.com/f66f0086-87b1-421f-a647-db43da8eccdc%2FRectangle_19.png?v=1628434631251);
+}
+.Rectangle-19-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:61;
+}
+.Rectangle-21{
+  position:relative;
+  z-index:60;
+  pointer-events:none;
+  margin-left:492px;
+  width:455px;
+  min-width:455px;
+  height:437px;
+  margin-top:-1784px;
+  margin-bottom:1347px;
+  min-height:437px;
+  content:url(https://cdn.glitch.com/f66f0086-87b1-421f-a647-db43da8eccdc%2FRectangle_21.png?v=1628434639124);
+}
+.Rectangle-21-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:60;
+}
+.Rectangle-20{
+  position:relative;
+  z-index:59;
+  pointer-events:none;
+  margin-left:971px;
+  width:455px;
+  min-width:455px;
+  height:437px;
+  margin-top:-1784px;
+  margin-bottom:1347px;
+  min-height:437px;
+  content:url(https://cdn.glitch.com/f66f0086-87b1-421f-a647-db43da8eccdc%2FRectangle_20.png?v=1628434636698);
+}
+.Rectangle-20-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:59;
+}
+.POPULATION-GROWTH{
+  position:relative;
+  z-index:64;
+  pointer-events:none;
+  margin-left:1050px;
+  width:297px;
+  min-width:297px;
+  margin-top:-1610px;
+  margin-bottom:1520px;
+  min-height:90px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Heiti TC;
+  font-weight:300;
+  font-size:48px;
+  line-height:30px;
+}
+.POPULATION-GROWTH-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:64;
+}
+.AGRICULTURE{
+  position:relative;
+  z-index:63;
+  pointer-events:none;
+  margin-left:561px;
+  width:317px;
+  min-width:317px;
+  margin-top:-1582px;
+  margin-bottom:1552px;
+  min-height:30px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Heiti TC;
+  font-weight:300;
+  font-size:48px;
+  line-height:30px;
+}
+.AGRICULTURE-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:63;
+}
+.POLLUTION{
+  position:relative;
+  z-index:62;
+  pointer-events:none;
+  margin-left:114px;
+  width:255px;
+  min-width:255px;
+  margin-top:-1580px;
+  margin-bottom:1550px;
+  min-height:30px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Heiti TC;
+  font-weight:300;
+  font-size:48px;
+  line-height:30px;
+}
+.POLLUTION-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:62;
+}
+.Rectangle-24{
+  position:relative;
+  z-index:67;
+  pointer-events:none;
+  margin-left:972px;
+  width:454px;
+  min-width:454px;
+  height:436px;
+  margin-top:-1334px;
+  margin-bottom:898px;
+  min-height:436px;
+  background-color:rgba(183, 246, 255, 1);
+  border:1px solid rgba(0, 0, 0, 1);
+}
+.Rectangle-24-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:67;
+}
+.Rectangle-23{
+  position:relative;
+  z-index:66;
+  pointer-events:none;
+  margin-left:489px;
+  width:454px;
+  min-width:454px;
+  height:436px;
+  margin-top:-1334px;
+  margin-bottom:898px;
+  min-height:436px;
+  background-color:rgba(183, 246, 255, 1);
+  border:1px solid rgba(0, 0, 0, 1);
+}
+.Rectangle-23-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:66;
+}
+.Rectangle-22{
+  position:relative;
+  z-index:65;
+  pointer-events:none;
+  margin-left:14px;
+  width:454px;
+  min-width:454px;
+  height:436px;
+  margin-top:-1334px;
+  margin-bottom:898px;
+  min-height:436px;
+  background-color:rgba(183, 246, 255, 1);
+  filter:drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+  border:1px solid rgba(0, 0, 0, 1);
+}
+.Rectangle-22-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:65;
+}
+.Pesticides-and-ferti{
+  position:relative;
+  z-index:68;
+  pointer-events:none;
+  margin-left:34px;
+  width:415px;
+  min-width:415px;
+  margin-top:-1317px;
+  margin-bottom:1001px;
+  min-height:316px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Happy Monkey;
+  font-weight:400;
+  font-size:24px;
+  line-height:30px;
+}
+.Pesticides-and-ferti-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:68;
+}
+.The-human-population{
+  position:relative;
+  z-index:70;
+  pointer-events:none;
+  margin-left:989px;
+  width:423px;
+  min-width:423px;
+  margin-top:-1390px;
+  margin-bottom:998px;
+  min-height:392px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Happy Monkey;
+  font-weight:400;
+  font-size:24px;
+  line-height:30px;
+}
+.The-human-population-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:70;
+}
+.Agriculture-consumes{
+  position:relative;
+  z-index:69;
+  pointer-events:none;
+  margin-left:508px;
+  width:424px;
+  min-width:424px;
+  margin-top:-1390px;
+  margin-bottom:1004px;
+  min-height:386px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Happy Monkey;
+  font-weight:400;
+  font-size:24px;
+  line-height:30px;
+}
+.Agriculture-consumes-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:69;
+}
+.Group-31{
+  position:relative;
+  z-index:48;
+  pointer-events:none;
+  margin-left:-4px;
+  width:1440px;
+  min-width:1440px;
+  height:30px;
+  margin-top:-832px;
+  margin-bottom:802px;
+  min-height:30px;
+}
+.Group-31-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:48;
+}
+.Mission{
+  position:relative;
+  z-index:49;
+  pointer-events:none;
+  margin-left:639px;
+  width:163px;
+  min-width:161px;
+  margin-top:0px;
+  margin-bottom:0px;
+  min-height:30px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Helvetica;
+  font-weight:400;
+  font-size:48px;
+  line-height:30px;
+}
+.Mission-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:49;
+}
+.Line-36-1{
+  position:relative;
+  z-index:50;
+  pointer-events:none;
+  transform:rotate(0.08910689573892953deg);
+  margin-left:-6px;
+  width:643px;
+  min-width:643px;
+  margin-top:-15px;
+  margin-bottom:15px;
+  min-height:undefinedpx;
+  border:1px solid rgba(151, 147, 147, 1);
+}
+.Line-36-1-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:50;
+}
+.Line-38-1{
+  position:relative;
+  z-index:51;
+  pointer-events:none;
+  transform:rotate(0.08994620623649273deg);
+  margin-left:803px;
+  width:637px;
+  min-width:637px;
+  margin-top:-14px;
+  margin-bottom:14px;
+  min-height:undefinedpx;
+  border:1px solid rgba(151, 147, 147, 1);
+}
+.Line-38-1-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:51;
+}
+.Line-39-1{
+  position:relative;
+  z-index:53;
+  pointer-events:none;
+  transform:rotate(0.08994621290659126deg);
+  margin-left:803px;
+  width:637px;
+  min-width:637px;
+  margin-top:-8px;
+  margin-bottom:8px;
+  min-height:undefinedpx;
+  border:1px solid rgba(151, 147, 147, 1);
+}
+.Line-39-1-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:53;
+}
+.Line-37-1{
+  position:relative;
+  z-index:52;
+  pointer-events:none;
+  transform:rotate(0.08910689573892953deg);
+  margin-left:-5px;
+  width:643px;
+  min-width:643px;
+  margin-top:-13px;
+  margin-bottom:13px;
+  min-height:undefinedpx;
+  border:1px solid rgba(151, 147, 147, 1);
+}
+.Line-37-1-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:52;
+}
+.Group-28{
+  position:relative;
+  z-index:38;
+  pointer-events:none;
+  margin-left:-4px;
+  width:1440px;
+  min-width:1440px;
+  height:456px;
+  margin-top:-762px;
+  margin-bottom:306px;
+  min-height:456px;
+}
+.Group-28-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:38;
+}
+.q181112-Blog-Feature{
+  position:relative;
+  z-index:39;
+  pointer-events:none;
+  margin-left:4px;
+  width:1436px;
+  min-width:1436px;
+  height:456px;
+  margin-top:0px;
+  margin-bottom:0px;
+  min-height:456px;
+  content:url(https://cdn.glitch.com/f66f0086-87b1-421f-a647-db43da8eccdc%2F_181112_Blog_Feature_Mission_1.png?v=1628434616104);
+}
+.q181112-Blog-Feature-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:39;
+}
+.Our-Mission{
+  position:relative;
+  z-index:41;
+  pointer-events:none;
+  margin-left:621px;
+  width:198px;
+  min-width:198px;
+  margin-top:-418px;
+  margin-bottom:388px;
+  min-height:30px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Lato;
+  font-weight:800;
+  font-size:36px;
+  line-height:30px;
+}
+.Our-Mission-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:41;
+}
+.Water-crisis-has-bee{
+  position:relative;
+  z-index:40;
+  pointer-events:none;
+  margin-left:210px;
+  width:1034px;
+  min-width:1034px;
+  margin-top:-363px;
+  margin-bottom:115px;
+  min-height:248px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Lato;
+  font-weight:300;
+  font-size:36px;
+  line-height:30px;
+}
+.Water-crisis-has-bee-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:40;
+}
+.Group-32{
+  position:relative;
+  z-index:74;
+  pointer-events:none;
+  margin-left:-162px;
+  width:1770px;
+  min-width:1770px;
+  height:170px;
+  margin-top:-170px;
+  margin-bottom:0px;
+  min-height:170px;
+}
+.Group-32-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:74;
+}
+.Frame-29{
+  position:relative;
+  z-index:75;
+  pointer-events:none;
+  margin-left:0px;
+  width:1770px;
+  min-width:1770px;
+  height:170px;
+  margin-top:0px;
+  margin-bottom:0px;
+  min-height:170px;
+  background-image:url(https://cdn.glitch.com/f66f0086-87b1-421f-a647-db43da8eccdc%2FFrame_29.png?v=1628434625149);
+  background-position:center;
+  background-size:cover;
+  background-repeat:no-repeat;
+}
+.Frame-29-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:75;
+}
+.Footer-social-icons-{
+  position:relative;
+  z-index:76;
+  pointer-events:none;
+  margin-left:691px;
+  width:388px;
+  min-width:388px;
+  height:170px;
+  margin-top:0px;
+  margin-bottom:0px;
+  min-height:170px;
+  content:url(https://cdn.glitch.com/f66f0086-87b1-421f-a647-db43da8eccdc%2FFooter_social_icons_1.png?v=1628434624733);
+}
+.Footer-social-icons--outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:76;
+}

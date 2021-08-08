@@ -1,0 +1,1518 @@
+.websiteBody{
+  margin: 0;
+}.Page{
+  display:block;
+  margin:auto;
+  width:100%;
+  height:auto;
+  pointer-events:auto;
+}
+.Page-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:1;
+}
+.Frame{
+  position:relative;
+  z-index:2;
+  pointer-events:none;
+  width:100%;
+  margin-left:0;
+  min-width:200px;
+  max-width:1440px;
+  margin:auto;
+  background-color:rgba(255, 255, 255, 1);
+  overflow:hidden;
+}
+.Frame-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:2;
+}
+.Rectangle-7{
+  position:relative;
+  z-index:6;
+  pointer-events:none;
+  margin-left:644px;
+  width:796px;
+  min-width:796px;
+  height:77px;
+  margin-top:0px;
+  margin-bottom:1749px;
+  min-height:77px;
+  background-color:rgba(238, 247, 242, 1);
+}
+.Rectangle-7-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:6;
+}
+.Group-4{
+  position:relative;
+  z-index:3;
+  pointer-events:none;
+  margin-left:163px;
+  width:437px;
+  min-width:437px;
+  height:330px;
+  margin-top:-1819px;
+  margin-bottom:1489px;
+  min-height:330px;
+}
+.Group-4-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:3;
+}
+.Screen-Shot-2021-08-{
+  position:relative;
+  z-index:5;
+  pointer-events:none;
+  margin-left:0px;
+  width:179px;
+  min-width:179px;
+  height:73px;
+  margin-top:0px;
+  margin-bottom:257px;
+  min-height:73px;
+  content:url(https://cdn.glitch.com/f66f0086-87b1-421f-a647-db43da8eccdc%2FScreen_Shot_2021_08_04_at_11_15_1.png?v=1628442575528);
+}
+.Screen-Shot-2021-08--outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:5;
+}
+.Screen-Shot-2021-08--1{
+  position:relative;
+  z-index:4;
+  pointer-events:none;
+  margin-left:65px;
+  width:372px;
+  min-width:372px;
+  height:322px;
+  margin-top:-322px;
+  margin-bottom:0px;
+  min-height:322px;
+}
+.Screen-Shot-2021-08--1-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:4;
+}
+.Resources{
+  position:relative;
+  z-index:10;
+  pointer-events:auto;
+  margin-left:1279px;
+  width:112px;
+  min-width:110px;
+  margin-top:-1798px;
+  margin-bottom:1768px;
+  min-height:30px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Lato;
+  font-weight:300;
+  font-size:25px;
+  line-height:30px;
+}
+.Resources-outer{
+  position:relative;
+  display:flex;
+  pointer-events:auto;
+  z-index:10;
+}
+.News{
+  position:relative;
+  z-index:9;
+  pointer-events:auto;
+  margin-left:1157px;
+  width:62px;
+  min-width:62px;
+  margin-top:-1798px;
+  margin-bottom:1768px;
+  min-height:30px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Lato;
+  font-weight:300;
+  font-size:25px;
+  line-height:30px;
+}
+.News-outer{
+  position:relative;
+  display:flex;
+  pointer-events:auto;
+  z-index:9;
+}
+.Home{
+  position:relative;
+  z-index:7;
+  pointer-events:auto;
+  margin-left:804px;
+  width:66px;
+  min-width:66px;
+  margin-top:-1798px;
+  margin-bottom:1768px;
+  min-height:30px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Lato;
+  font-weight:300;
+  font-size:25px;
+  line-height:30px;
+}
+.Home-outer{
+  position:relative;
+  display:flex;
+  pointer-events:auto;
+  z-index:7;
+}
+.How-to-Save-Water{
+  position:relative;
+  z-index:8;
+  pointer-events:auto;
+  margin-left:908px;
+  width:211px;
+  min-width:211px;
+  margin-top:-1796px;
+  margin-bottom:1768px;
+  min-height:28px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Lato;
+  font-weight:300;
+  font-size:25px;
+  line-height:30px;
+}
+.How-to-Save-Water-outer{
+  position:relative;
+  display:flex;
+  pointer-events:auto;
+  z-index:8;
+}
+.Rectangle-12{
+  position:relative;
+  z-index:11;
+  pointer-events:none;
+  margin-left:0px;
+  width:1440px;
+  min-width:1440px;
+  height:64px;
+  margin-top:-1699px;
+  margin-bottom:1635px;
+  min-height:64px;
+  background-color:rgba(133, 200, 203, 1);
+}
+.Rectangle-12-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:11;
+}
+.Rectangle-13{
+  position:relative;
+  z-index:12;
+  pointer-events:none;
+  margin-left:747px;
+  width:259px;
+  min-width:259px;
+  height:40px;
+  margin-top:-1672px;
+  margin-bottom:1632px;
+  min-height:40px;
+  background-color:rgba(255, 255, 255, 1);
+}
+.Rectangle-13-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:12;
+}
+.Around-the-Yard-1{
+  position:relative;
+  z-index:16;
+  pointer-events:none;
+  margin-left:771px;
+  width:197px;
+  min-width:197px;
+  margin-top:-1667px;
+  margin-bottom:1637px;
+  min-height:30px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Lao MN;
+  font-weight:700;
+  font-size:25px;
+  line-height:30px;
+}
+.Around-the-Yard-1-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:16;
+}
+.Around-the-House{
+  position:relative;
+  z-index:15;
+  pointer-events:auto;
+  margin-left:479px;
+  width:225px;
+  min-width:225px;
+  margin-top:-1667px;
+  margin-bottom:1644px;
+  min-height:23px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Lao MN;
+  font-weight:700;
+  font-size:25px;
+  line-height:30px;
+}
+.Around-the-House-outer{
+  position:relative;
+  display:flex;
+  pointer-events:auto;
+  z-index:15;
+}
+.Around-the-Yard-2{
+  position:relative;
+  z-index:14;
+  pointer-events:none;
+  margin-left:771px;
+  width:197px;
+  min-width:197px;
+  margin-top:-1667px;
+  margin-bottom:1637px;
+  min-height:30px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Lao MN;
+  font-weight:700;
+  font-size:25px;
+  line-height:30px;
+  visibility:hidden;
+}
+.Around-the-Yard-2-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:14;
+}
+.Around-the-House-1{
+  position:relative;
+  z-index:13;
+  pointer-events:none;
+  margin-left:479px;
+  width:225px;
+  min-width:225px;
+  margin-top:-1667px;
+  margin-bottom:1644px;
+  min-height:23px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Lao MN;
+  font-weight:700;
+  font-size:25px;
+  line-height:30px;
+  visibility:hidden;
+}
+.Around-the-House-1-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:13;
+}
+.Around-the-Yard{
+  position:relative;
+  z-index:17;
+  pointer-events:none;
+  margin-left:531px;
+  width:377px;
+  min-width:377px;
+  margin-top:-1558px;
+  margin-bottom:1528px;
+  min-height:30px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Lao MN;
+  font-weight:700;
+  font-size:48px;
+  line-height:30px;
+}
+.Around-the-Yard-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:17;
+}
+.Things-you-can-do-ar{
+  position:relative;
+  z-index:18;
+  pointer-events:none;
+  margin-left:488px;
+  width:463px;
+  min-width:463px;
+  margin-top:-1508px;
+  margin-bottom:1478px;
+  min-height:30px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(125, 122, 122, 1);
+  font-style:normal;
+  font-family:Lao MN;
+  font-weight:400;
+  font-size:18px;
+  line-height:30px;
+}
+.Things-you-can-do-ar-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:18;
+}
+.Line-1{
+  position:relative;
+  z-index:19;
+  pointer-events:none;
+  margin-left:83px;
+  width:1273px;
+  min-width:1273px;
+  margin-top:-1457px;
+  margin-bottom:1457px;
+  min-height:undefinedpx;
+  border:1px solid rgba(0, 0, 0, 1);
+}
+.Line-1-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:19;
+}
+.Group-14{
+  position:relative;
+  z-index:50;
+  pointer-events:none;
+  margin-left:792px;
+  width:607px;
+  min-width:607px;
+  height:159px;
+  margin-top:-1393px;
+  margin-bottom:1234px;
+  min-height:159px;
+}
+.Group-14-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:50;
+}
+.Group-1-2{
+  position:relative;
+  z-index:52;
+  pointer-events:none;
+  margin-left:0px;
+  width:163px;
+  min-width:163px;
+  height:159px;
+  margin-top:0px;
+  margin-bottom:0px;
+  min-height:159px;
+}
+.Group-1-2-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:52;
+}
+.Ellipse-1-2{
+  position:relative;
+  z-index:53;
+  pointer-events:none;
+  margin-left:0px;
+  width:152px;
+  min-width:152px;
+  height:152px;
+  margin-top:0px;
+  margin-bottom:7px;
+  min-height:152px;
+  content:url(https://cdn.glitch.com/f66f0086-87b1-421f-a647-db43da8eccdc%2FEllipse_1_2.png?v=1628442574410);
+}
+.Ellipse-1-2-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:53;
+}
+.Ellipse-2-2{
+  position:relative;
+  z-index:54;
+  pointer-events:none;
+  margin-left:11px;
+  width:152px;
+  min-width:152px;
+  height:152px;
+  margin-top:-152px;
+  margin-bottom:0px;
+  min-height:152px;
+  content:url(https://cdn.glitch.com/f66f0086-87b1-421f-a647-db43da8eccdc%2FEllipse_2_2.png?v=1628442575045);
+}
+.Ellipse-2-2-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:54;
+}
+.Use-a-Broom-to-Clean{
+  position:relative;
+  z-index:55;
+  pointer-events:none;
+  margin-left:180px;
+  width:427px;
+  min-width:427px;
+  margin-top:-130px;
+  margin-bottom:100px;
+  min-height:30px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Lao MN;
+  font-weight:700;
+  font-size:24px;
+  line-height:30px;
+}
+.Use-a-Broom-to-Clean-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:55;
+}
+.Using-a-broom-to-cle{
+  position:relative;
+  z-index:51;
+  pointer-events:none;
+  margin-left:188px;
+  width:376px;
+  min-width:376px;
+  margin-top:-100px;
+  margin-bottom:40px;
+  min-height:60px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(125, 122, 122, 1);
+  font-style:normal;
+  font-family:Lao MN;
+  font-weight:400;
+  font-size:18px;
+  line-height:30px;
+}
+.Using-a-broom-to-cle-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:51;
+}
+.Group-13{
+  position:relative;
+  z-index:20;
+  pointer-events:none;
+  margin-left:83px;
+  width:564px;
+  min-width:564px;
+  height:179px;
+  margin-top:-1393px;
+  margin-bottom:1214px;
+  min-height:179px;
+}
+.Group-13-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:20;
+}
+.Group-1-7{
+  position:relative;
+  z-index:22;
+  pointer-events:none;
+  margin-left:0px;
+  width:163px;
+  min-width:163px;
+  height:159px;
+  margin-top:0px;
+  margin-bottom:20px;
+  min-height:159px;
+}
+.Group-1-7-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:22;
+}
+.Ellipse-1-7{
+  position:relative;
+  z-index:23;
+  pointer-events:none;
+  margin-left:0px;
+  width:152px;
+  min-width:152px;
+  height:152px;
+  margin-top:0px;
+  margin-bottom:7px;
+  min-height:152px;
+  content:url(https://cdn.glitch.com/f66f0086-87b1-421f-a647-db43da8eccdc%2FEllipse_1_7.png?v=1628442574614);
+}
+.Ellipse-1-7-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:23;
+}
+.Ellipse-2-7{
+  position:relative;
+  z-index:24;
+  pointer-events:none;
+  margin-left:11px;
+  width:152px;
+  min-width:152px;
+  height:152px;
+  margin-top:-152px;
+  margin-bottom:0px;
+  min-height:152px;
+  content:url(https://cdn.glitch.com/f66f0086-87b1-421f-a647-db43da8eccdc%2FEllipse_2_7.png?v=1628442575991);
+}
+.Ellipse-2-7-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:24;
+}
+.Use-Water-wise-Plant{
+  position:relative;
+  z-index:25;
+  pointer-events:none;
+  margin-left:255px;
+  width:253px;
+  min-width:253px;
+  margin-top:-150px;
+  margin-bottom:120px;
+  min-height:30px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Lao MN;
+  font-weight:700;
+  font-size:24px;
+  line-height:30px;
+}
+.Use-Water-wise-Plant-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:25;
+}
+.Check-with-your-loca{
+  position:relative;
+  z-index:21;
+  pointer-events:none;
+  margin-left:188px;
+  width:376px;
+  min-width:376px;
+  margin-top:-120px;
+  margin-bottom:0px;
+  min-height:120px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(125, 122, 122, 1);
+  font-style:normal;
+  font-family:Lao MN;
+  font-weight:400;
+  font-size:18px;
+  line-height:30px;
+}
+.Check-with-your-loca-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:21;
+}
+.Group-15{
+  position:relative;
+  z-index:56;
+  pointer-events:none;
+  margin-left:792px;
+  width:564px;
+  min-width:564px;
+  height:209px;
+  margin-top:-1128px;
+  margin-bottom:919px;
+  min-height:209px;
+}
+.Group-15-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:56;
+}
+.Group-1-1{
+  position:relative;
+  z-index:58;
+  pointer-events:none;
+  margin-left:0px;
+  width:163px;
+  min-width:163px;
+  height:159px;
+  margin-top:0px;
+  margin-bottom:50px;
+  min-height:159px;
+}
+.Group-1-1-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:58;
+}
+.Ellipse-1-1{
+  position:relative;
+  z-index:59;
+  pointer-events:none;
+  margin-left:0px;
+  width:152px;
+  min-width:152px;
+  height:152px;
+  margin-top:0px;
+  margin-bottom:7px;
+  min-height:152px;
+  content:url(https://cdn.glitch.com/f66f0086-87b1-421f-a647-db43da8eccdc%2FEllipse_1_1.png?v=1628442574409);
+}
+.Ellipse-1-1-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:59;
+}
+.Ellipse-2-1{
+  position:relative;
+  z-index:60;
+  pointer-events:none;
+  margin-left:11px;
+  width:152px;
+  min-width:152px;
+  height:152px;
+  margin-top:-152px;
+  margin-bottom:0px;
+  min-height:152px;
+  content:url(https://cdn.glitch.com/f66f0086-87b1-421f-a647-db43da8eccdc%2FEllipse_2_1.png?v=1628442575364);
+}
+.Ellipse-2-1-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:60;
+}
+.Reimagine-Your-Yard{
+  position:relative;
+  z-index:61;
+  pointer-events:none;
+  margin-left:255px;
+  width:242px;
+  min-width:242px;
+  margin-top:-180px;
+  margin-bottom:150px;
+  min-height:30px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Lao MN;
+  font-weight:700;
+  font-size:24px;
+  line-height:30px;
+}
+.Reimagine-Your-Yard-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:61;
+}
+.Feed-your-vegetables{
+  position:relative;
+  z-index:57;
+  pointer-events:none;
+  margin-left:188px;
+  width:376px;
+  min-width:376px;
+  margin-top:-150px;
+  margin-bottom:0px;
+  min-height:150px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(125, 122, 122, 1);
+  font-style:normal;
+  font-family:Lao MN;
+  font-weight:400;
+  font-size:14px;
+  line-height:30px;
+}
+.Feed-your-vegetables-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:57;
+}
+.Group-16{
+  position:relative;
+  z-index:26;
+  pointer-events:none;
+  margin-left:83px;
+  width:587px;
+  min-width:587px;
+  height:179px;
+  margin-top:-1128px;
+  margin-bottom:949px;
+  min-height:179px;
+}
+.Group-16-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:26;
+}
+.Group-1-6{
+  position:relative;
+  z-index:28;
+  pointer-events:none;
+  margin-left:0px;
+  width:163px;
+  min-width:163px;
+  height:159px;
+  margin-top:0px;
+  margin-bottom:20px;
+  min-height:159px;
+}
+.Group-1-6-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:28;
+}
+.Ellipse-1-6{
+  position:relative;
+  z-index:29;
+  pointer-events:none;
+  margin-left:0px;
+  width:152px;
+  min-width:152px;
+  height:152px;
+  margin-top:0px;
+  margin-bottom:7px;
+  min-height:152px;
+  content:url(https://cdn.glitch.com/f66f0086-87b1-421f-a647-db43da8eccdc%2FEllipse_1_6.png?v=1628442574570);
+}
+.Ellipse-1-6-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:29;
+}
+.Ellipse-2-6{
+  position:relative;
+  z-index:30;
+  pointer-events:none;
+  margin-left:11px;
+  width:152px;
+  min-width:152px;
+  height:152px;
+  margin-top:-152px;
+  margin-bottom:0px;
+  min-height:152px;
+  content:url(https://cdn.glitch.com/f66f0086-87b1-421f-a647-db43da8eccdc%2FEllipse_2_6.png?v=1628442575006);
+}
+.Ellipse-2-6-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:30;
+}
+.Adjust-Sprinkler-Hea{
+  position:relative;
+  z-index:31;
+  pointer-events:none;
+  margin-left:188px;
+  width:399px;
+  min-width:399px;
+  margin-top:-150px;
+  margin-bottom:120px;
+  min-height:30px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Lao MN;
+  font-weight:700;
+  font-size:24px;
+  line-height:30px;
+}
+.Adjust-Sprinkler-Hea-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:31;
+}
+.Saves-12-15-gallons-{
+  position:relative;
+  z-index:27;
+  pointer-events:none;
+  margin-left:188px;
+  width:376px;
+  min-width:376px;
+  margin-top:-120px;
+  margin-bottom:0px;
+  min-height:120px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(125, 122, 122, 1);
+  font-style:normal;
+  font-family:Lao MN;
+  font-weight:400;
+  font-size:18px;
+  line-height:30px;
+}
+.Saves-12-15-gallons--outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:27;
+}
+.Group-18{
+  position:relative;
+  z-index:62;
+  pointer-events:none;
+  margin-left:792px;
+  width:564px;
+  min-width:564px;
+  height:159px;
+  margin-top:-863px;
+  margin-bottom:704px;
+  min-height:159px;
+}
+.Group-18-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:62;
+}
+.Install-Drip-Irrigat{
+  position:relative;
+  z-index:67;
+  pointer-events:none;
+  margin-left:240px;
+  width:272px;
+  min-width:272px;
+  margin-top:0px;
+  margin-bottom:99px;
+  min-height:60px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Lao MN;
+  font-weight:700;
+  font-size:24px;
+  line-height:30px;
+}
+.Install-Drip-Irrigat-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:67;
+}
+.Group-1{
+  position:relative;
+  z-index:64;
+  pointer-events:none;
+  margin-left:0px;
+  width:163px;
+  min-width:163px;
+  height:159px;
+  margin-top:-159px;
+  margin-bottom:0px;
+  min-height:159px;
+}
+.Group-1-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:64;
+}
+.Ellipse-1{
+  position:relative;
+  z-index:65;
+  pointer-events:none;
+  margin-left:0px;
+  width:152px;
+  min-width:152px;
+  height:152px;
+  margin-top:0px;
+  margin-bottom:7px;
+  min-height:152px;
+  content:url(https://cdn.glitch.com/f66f0086-87b1-421f-a647-db43da8eccdc%2FEllipse_1.png?v=1628442574844);
+}
+.Ellipse-1-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:65;
+}
+.Ellipse-2{
+  position:relative;
+  z-index:66;
+  pointer-events:none;
+  margin-left:11px;
+  width:152px;
+  min-width:152px;
+  height:152px;
+  margin-top:-152px;
+  margin-bottom:0px;
+  min-height:152px;
+  content:url(https://cdn.glitch.com/f66f0086-87b1-421f-a647-db43da8eccdc%2FEllipse_2.png?v=1628442575748);
+}
+.Ellipse-2-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:66;
+}
+.Installing-a-drip-ir{
+  position:relative;
+  z-index:63;
+  pointer-events:none;
+  margin-left:188px;
+  width:376px;
+  min-width:376px;
+  margin-top:-100px;
+  margin-bottom:10px;
+  min-height:90px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(125, 122, 122, 1);
+  font-style:normal;
+  font-family:Lao MN;
+  font-weight:400;
+  font-size:18px;
+  line-height:30px;
+}
+.Installing-a-drip-ir-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:63;
+}
+.Group-17{
+  position:relative;
+  z-index:32;
+  pointer-events:none;
+  margin-left:83px;
+  width:593px;
+  min-width:593px;
+  height:159px;
+  margin-top:-863px;
+  margin-bottom:704px;
+  min-height:159px;
+}
+.Group-17-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:32;
+}
+.Group-1-5{
+  position:relative;
+  z-index:34;
+  pointer-events:none;
+  margin-left:0px;
+  width:163px;
+  min-width:163px;
+  height:159px;
+  margin-top:0px;
+  margin-bottom:0px;
+  min-height:159px;
+}
+.Group-1-5-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:34;
+}
+.Ellipse-1-5{
+  position:relative;
+  z-index:35;
+  pointer-events:none;
+  margin-left:0px;
+  width:152px;
+  min-width:152px;
+  height:152px;
+  margin-top:0px;
+  margin-bottom:7px;
+  min-height:152px;
+  content:url(https://cdn.glitch.com/f66f0086-87b1-421f-a647-db43da8eccdc%2FEllipse_1_5.png?v=1628442574647);
+}
+.Ellipse-1-5-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:35;
+}
+.Ellipse-2-5{
+  position:relative;
+  z-index:36;
+  pointer-events:none;
+  margin-left:11px;
+  width:152px;
+  min-width:152px;
+  height:152px;
+  margin-top:-152px;
+  margin-bottom:0px;
+  min-height:152px;
+  content:url(https://cdn.glitch.com/f66f0086-87b1-421f-a647-db43da8eccdc%2FEllipse_2_5.png?v=1628442575639);
+}
+.Ellipse-2-5-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:36;
+}
+.Use-Drought-resistan{
+  position:relative;
+  z-index:37;
+  pointer-events:none;
+  margin-left:188px;
+  width:405px;
+  min-width:405px;
+  margin-top:-130px;
+  margin-bottom:100px;
+  min-height:30px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Lao MN;
+  font-weight:700;
+  font-size:24px;
+  line-height:30px;
+}
+.Use-Drought-resistan-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:37;
+}
+.Using-drought-resist{
+  position:relative;
+  z-index:33;
+  pointer-events:none;
+  margin-left:188px;
+  width:376px;
+  min-width:376px;
+  margin-top:-100px;
+  margin-bottom:40px;
+  min-height:60px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(125, 122, 122, 1);
+  font-style:normal;
+  font-family:Lao MN;
+  font-weight:400;
+  font-size:18px;
+  line-height:30px;
+}
+.Using-drought-resist-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:33;
+}
+.Group-20{
+  position:relative;
+  z-index:44;
+  pointer-events:none;
+  margin-left:792px;
+  width:564px;
+  min-width:564px;
+  height:159px;
+  margin-top:-598px;
+  margin-bottom:439px;
+  min-height:159px;
+}
+.Group-20-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:44;
+}
+.Group-1-3{
+  position:relative;
+  z-index:46;
+  pointer-events:none;
+  margin-left:0px;
+  width:163px;
+  min-width:163px;
+  height:159px;
+  margin-top:0px;
+  margin-bottom:0px;
+  min-height:159px;
+}
+.Group-1-3-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:46;
+}
+.Ellipse-1-3{
+  position:relative;
+  z-index:47;
+  pointer-events:none;
+  margin-left:0px;
+  width:152px;
+  min-width:152px;
+  height:152px;
+  margin-top:0px;
+  margin-bottom:7px;
+  min-height:152px;
+  content:url(https://cdn.glitch.com/f66f0086-87b1-421f-a647-db43da8eccdc%2FEllipse_1_3.png?v=1628442574410);
+}
+.Ellipse-1-3-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:47;
+}
+.Ellipse-2-3{
+  position:relative;
+  z-index:48;
+  pointer-events:none;
+  margin-left:11px;
+  width:152px;
+  min-width:152px;
+  height:152px;
+  margin-top:-152px;
+  margin-bottom:0px;
+  min-height:152px;
+  content:url(https://cdn.glitch.com/f66f0086-87b1-421f-a647-db43da8eccdc%2FEllipse_2_3.png?v=1628442575570);
+}
+.Ellipse-2-3-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:48;
+}
+.Use-Mulch{
+  position:relative;
+  z-index:49;
+  pointer-events:none;
+  margin-left:315px;
+  width:122px;
+  min-width:122px;
+  margin-top:-134px;
+  margin-bottom:104px;
+  min-height:30px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Lao MN;
+  font-weight:700;
+  font-size:24px;
+  line-height:30px;
+}
+.Use-Mulch-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:49;
+}
+.Using-mulch-can-save{
+  position:relative;
+  z-index:45;
+  pointer-events:none;
+  margin-left:188px;
+  width:376px;
+  min-width:376px;
+  margin-top:-100px;
+  margin-bottom:40px;
+  min-height:60px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(125, 122, 122, 1);
+  font-style:normal;
+  font-family:Lao MN;
+  font-weight:400;
+  font-size:18px;
+  line-height:30px;
+}
+.Using-mulch-can-save-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:45;
+}
+.Group-19{
+  position:relative;
+  z-index:38;
+  pointer-events:none;
+  margin-left:80px;
+  width:564px;
+  min-width:564px;
+  height:159px;
+  margin-top:-598px;
+  margin-bottom:439px;
+  min-height:159px;
+}
+.Group-19-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:38;
+}
+.Group-1-4{
+  position:relative;
+  z-index:40;
+  pointer-events:none;
+  margin-left:0px;
+  width:163px;
+  min-width:163px;
+  height:159px;
+  margin-top:0px;
+  margin-bottom:0px;
+  min-height:159px;
+}
+.Group-1-4-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:40;
+}
+.Ellipse-1-4{
+  position:relative;
+  z-index:41;
+  pointer-events:none;
+  margin-left:0px;
+  width:152px;
+  min-width:152px;
+  height:152px;
+  margin-top:0px;
+  margin-bottom:7px;
+  min-height:152px;
+  content:url(https://cdn.glitch.com/f66f0086-87b1-421f-a647-db43da8eccdc%2FEllipse_1_4.png?v=1628442574526);
+}
+.Ellipse-1-4-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:41;
+}
+.Ellipse-2-4{
+  position:relative;
+  z-index:42;
+  pointer-events:none;
+  margin-left:11px;
+  width:152px;
+  min-width:152px;
+  height:152px;
+  margin-top:-152px;
+  margin-bottom:0px;
+  min-height:152px;
+  content:url(https://cdn.glitch.com/f66f0086-87b1-421f-a647-db43da8eccdc%2FEllipse_2_4.png?v=1628442575213);
+}
+.Ellipse-2-4-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:42;
+}
+.Set-Mower-Blades-to-{
+  position:relative;
+  z-index:43;
+  pointer-events:none;
+  margin-left:232px;
+  width:267px;
+  min-width:267px;
+  margin-top:-130px;
+  margin-bottom:98px;
+  min-height:32px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Lao MN;
+  font-weight:700;
+  font-size:24px;
+  line-height:30px;
+}
+.Set-Mower-Blades-to--outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:43;
+}
+.Setting-mower-blades{
+  position:relative;
+  z-index:39;
+  pointer-events:none;
+  margin-left:188px;
+  width:376px;
+  min-width:376px;
+  margin-top:-100px;
+  margin-bottom:10px;
+  min-height:90px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(125, 122, 122, 1);
+  font-style:normal;
+  font-family:Lao MN;
+  font-weight:400;
+  font-size:18px;
+  line-height:30px;
+}
+.Setting-mower-blades-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:39;
+}
+.Group-34{
+  position:relative;
+  z-index:68;
+  pointer-events:none;
+  margin-left:-165px;
+  width:1770px;
+  min-width:1770px;
+  height:170px;
+  margin-top:-170px;
+  margin-bottom:0px;
+  min-height:170px;
+}
+.Group-34-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:68;
+}
+.Frame-29{
+  position:relative;
+  z-index:69;
+  pointer-events:none;
+  margin-left:0px;
+  width:1770px;
+  min-width:1770px;
+  height:170px;
+  margin-top:0px;
+  margin-bottom:0px;
+  min-height:170px;
+  background-image:url(https://cdn.glitch.com/f66f0086-87b1-421f-a647-db43da8eccdc%2FFrame_29.png?v=1628442575466);
+  background-position:center;
+  background-size:cover;
+  background-repeat:no-repeat;
+}
+.Frame-29-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:69;
+}
+.Footer-social-icons-{
+  position:relative;
+  z-index:70;
+  pointer-events:none;
+  margin-left:691px;
+  width:388px;
+  min-width:388px;
+  height:170px;
+  margin-top:0px;
+  margin-bottom:0px;
+  min-height:170px;
+  content:url(https://cdn.glitch.com/f66f0086-87b1-421f-a647-db43da8eccdc%2FFooter_social_icons_1.png?v=1628442575407);
+}
+.Footer-social-icons--outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:70;
+}

@@ -1,0 +1,675 @@
+.websiteBody{
+  margin: 0;
+}.Page{
+  display:block;
+  margin:auto;
+  width:100%;
+  height:auto;
+  pointer-events:auto;
+}
+.Page-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:1;
+}
+.Frame{
+  position:relative;
+  z-index:2;
+  pointer-events:none;
+  width:100%;
+  margin-left:0;
+  min-width:200px;
+  max-width:1440px;
+  margin:auto;
+  background-color:rgba(255, 255, 255, 1);
+  overflow:hidden;
+}
+.Frame-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:2;
+}
+.Group-22{
+  position:relative;
+  z-index:3;
+  pointer-events:none;
+  margin-left:156px;
+  width:1284px;
+  min-width:1284px;
+  height:364px;
+  margin-top:0px;
+  margin-bottom:1114px;
+  min-height:364px;
+}
+.Group-22-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:3;
+}
+.Rectangle-4{
+  position:relative;
+  z-index:7;
+  pointer-events:none;
+  margin-left:488px;
+  width:796px;
+  min-width:796px;
+  height:77px;
+  margin-top:0px;
+  margin-bottom:287px;
+  min-height:77px;
+  background-color:rgba(238, 247, 242, 1);
+}
+.Rectangle-4-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:7;
+}
+.Resources-1{
+  position:relative;
+  z-index:11;
+  pointer-events:none;
+  margin-left:1110px;
+  width:130px;
+  min-width:130px;
+  margin-top:-337px;
+  margin-bottom:307px;
+  min-height:30px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Lato;
+  font-weight:300;
+  font-size:25px;
+  line-height:30px;
+}
+.Resources-1-outer{
+  position:relative;
+  display:flex;
+  pointer-events:auto;
+  z-index:11;
+}
+.News{
+  position:relative;
+  z-index:10;
+  pointer-events:auto;
+  margin-left:979px;
+  width:62px;
+  min-width:62px;
+  margin-top:-337px;
+  margin-bottom:307px;
+  min-height:30px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Lato;
+  font-weight:300;
+  font-size:25px;
+  line-height:30px;
+}
+.News-outer{
+  position:relative;
+  display:flex;
+  pointer-events:auto;
+  z-index:10;
+}
+.How-to-Save-Water{
+  position:relative;
+  z-index:9;
+  pointer-events:auto;
+  margin-left:699px;
+  width:211px;
+  min-width:211px;
+  margin-top:-337px;
+  margin-bottom:309px;
+  min-height:28px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Lato;
+  font-weight:300;
+  font-size:25px;
+  line-height:30px;
+}
+.How-to-Save-Water-outer{
+  position:relative;
+  display:flex;
+  pointer-events:auto;
+  z-index:9;
+}
+.Home{
+  position:relative;
+  z-index:8;
+  pointer-events:auto;
+  margin-left:564px;
+  width:66px;
+  min-width:66px;
+  margin-top:-337px;
+  margin-bottom:307px;
+  min-height:30px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Lato;
+  font-weight:300;
+  font-size:25px;
+  line-height:30px;
+}
+.Home-outer{
+  position:relative;
+  display:flex;
+  pointer-events:auto;
+  z-index:8;
+}
+.Group-4{
+  position:relative;
+  z-index:4;
+  pointer-events:none;
+  margin-left:0px;
+  width:373px;
+  min-width:373px;
+  height:330px;
+  margin-top:-330px;
+  margin-bottom:0px;
+  min-height:330px;
+}
+.Group-4-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:4;
+}
+.Screen-Shot-2021-08-{
+  position:relative;
+  z-index:6;
+  pointer-events:none;
+  margin-left:0px;
+  width:179px;
+  min-width:179px;
+  height:73px;
+  margin-top:0px;
+  margin-bottom:257px;
+  min-height:73px;
+  content:url(https://cdn.glitch.com/f66f0086-87b1-421f-a647-db43da8eccdc%2FScreen_Shot_2021_08_04_at_11_15_1.png?v=1628443527777);
+}
+.Screen-Shot-2021-08--outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:6;
+}
+.Screen-Shot-2021-08--1{
+  position:relative;
+  z-index:5;
+  pointer-events:none;
+  margin-left:1px;
+  width:372px;
+  min-width:372px;
+  height:322px;
+  margin-top:-322px;
+  margin-bottom:0px;
+  min-height:322px;
+}
+.Screen-Shot-2021-08--1-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:5;
+}
+.Rectangle-14{
+  position:relative;
+  z-index:12;
+  pointer-events:none;
+  margin-left:0px;
+  width:1440px;
+  min-width:1440px;
+  height:121px;
+  margin-top:-1339px;
+  margin-bottom:1218px;
+  min-height:121px;
+  background-color:rgba(200, 247, 200, 1);
+}
+.Rectangle-14-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:12;
+}
+.Resources{
+  position:relative;
+  z-index:13;
+  pointer-events:none;
+  margin-left:556px;
+  width:216px;
+  min-width:216px;
+  margin-top:-1313px;
+  margin-bottom:1283px;
+  min-height:30px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Lato;
+  font-weight:600;
+  font-size:48px;
+  line-height:30px;
+}
+.Resources-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:13;
+}
+.Links-to-useful-wate{
+  position:relative;
+  z-index:14;
+  pointer-events:none;
+  margin-left:202px;
+  width:1035px;
+  min-width:1035px;
+  margin-top:-1264px;
+  margin-bottom:1234px;
+  min-height:30px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(151, 147, 147, 1);
+  font-style:normal;
+  font-family:Koulen;
+  font-weight:400;
+  font-size:24px;
+  line-height:30px;
+}
+.Links-to-useful-wate-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:14;
+}
+.State-of-California-{
+  position:relative;
+  z-index:15;
+  pointer-events:none;
+  margin-left:202px;
+  width:304px;
+  min-width:304px;
+  margin-top:-1101px;
+  margin-bottom:1071px;
+  min-height:30px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Abel;
+  font-weight:400;
+  font-size:24px;
+  text-decoration:underline;
+  line-height:30px;
+}
+.State-of-California--outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:15;
+}
+.logo-human-resource-{
+  position:relative;
+  z-index:16;
+  pointer-events:none;
+  margin-left:839px;
+  width:589px;
+  min-width:589px;
+  height:396px;
+  margin-top:-1072px;
+  margin-bottom:676px;
+  min-height:396px;
+  content:url(https://cdn.glitch.com/f66f0086-87b1-421f-a647-db43da8eccdc%2Flogo_human_resource_management_business_organization_png_favpng_DzwKfTxkvGEHSTmG.png?v=1628443529431);
+}
+.logo-human-resource--outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:16;
+}
+.My-Dry-Water-Supply-{
+  position:relative;
+  z-index:17;
+  pointer-events:none;
+  margin-left:202px;
+  width:223px;
+  min-width:223px;
+  margin-top:-1035px;
+  margin-bottom:1005px;
+  min-height:30px;
+  text-align:left;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Abel;
+  font-weight:400;
+  font-size:nullpx;
+  text-decoration:underline;
+  line-height:30px;
+}
+.My-Dry-Water-Supply--outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:17;
+}
+.My-Dry-Water-Supply--1{
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Abel;
+  font-weight:400;
+  font-size:24px;
+  text-decoration:underline;
+  line-height:30px;
+}
+.My-Dry-Water-Supply--2{
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Abel;
+  font-weight:400;
+  font-size:22px;
+  text-decoration:underline;
+  line-height:30px;
+}
+.My-Dry-Water-Supply--3{
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Abel;
+  font-weight:400;
+  font-size:24px;
+  text-decoration:underline;
+  line-height:30px;
+}
+.Association-of-Calif{
+  position:relative;
+  z-index:18;
+  pointer-events:none;
+  margin-left:202px;
+  width:354px;
+  min-width:354px;
+  margin-top:-969px;
+  margin-bottom:939px;
+  min-height:30px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Abel;
+  font-weight:400;
+  font-size:23px;
+  text-decoration:underline;
+  line-height:30px;
+}
+.Association-of-Calif-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:18;
+}
+.Report-water-waste{
+  position:relative;
+  z-index:25;
+  pointer-events:none;
+  margin-left:202px;
+  width:174px;
+  min-width:174px;
+  margin-top:-904px;
+  margin-bottom:874px;
+  min-height:30px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Abel;
+  font-weight:400;
+  font-size:23px;
+  text-decoration:underline;
+  line-height:30px;
+}
+.Report-water-waste-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:25;
+}
+.Water-Use-It-Wisely-{
+  position:relative;
+  z-index:19;
+  pointer-events:none;
+  margin-left:202px;
+  width:402px;
+  min-width:402px;
+  margin-top:-838px;
+  margin-bottom:808px;
+  min-height:30px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Abel;
+  font-weight:400;
+  font-size:23px;
+  text-decoration:underline;
+  line-height:30px;
+}
+.Water-Use-It-Wisely--outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:19;
+}
+.UC-Davis-water-conse{
+  position:relative;
+  z-index:20;
+  pointer-events:none;
+  margin-left:202px;
+  width:361px;
+  min-width:361px;
+  margin-top:-772px;
+  margin-bottom:742px;
+  min-height:30px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Abel;
+  font-weight:400;
+  font-size:23px;
+  text-decoration:underline;
+  line-height:30px;
+}
+.UC-Davis-water-conse-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:20;
+}
+.Low-income-water-rat{
+  position:relative;
+  z-index:21;
+  pointer-events:none;
+  margin-left:202px;
+  width:381px;
+  min-width:381px;
+  margin-top:-706px;
+  margin-bottom:676px;
+  min-height:30px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Abel;
+  font-weight:400;
+  font-size:23px;
+  text-decoration:underline;
+  line-height:30px;
+}
+.Low-income-water-rat-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:21;
+}
+.Department-of-Water-{
+  position:relative;
+  z-index:22;
+  pointer-events:none;
+  margin-left:202px;
+  width:477px;
+  min-width:477px;
+  margin-top:-640px;
+  margin-bottom:608px;
+  min-height:32px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Abel;
+  font-weight:400;
+  font-size:23px;
+  text-decoration:underline;
+  line-height:30px;
+}
+.Department-of-Water--outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:22;
+}
+.State-Water-Resource{
+  position:relative;
+  z-index:23;
+  pointer-events:none;
+  margin-left:202px;
+  width:490px;
+  min-width:490px;
+  margin-top:-572px;
+  margin-bottom:542px;
+  min-height:30px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Abel;
+  font-weight:400;
+  font-size:23px;
+  text-decoration:underline;
+  line-height:30px;
+}
+.State-Water-Resource-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:23;
+}
+.Water-conservation-a{
+  position:relative;
+  z-index:24;
+  pointer-events:none;
+  margin-left:202px;
+  width:234px;
+  min-width:234px;
+  margin-top:-506px;
+  margin-bottom:476px;
+  min-height:30px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Abel;
+  font-weight:400;
+  font-size:23px;
+  text-decoration:underline;
+  line-height:30px;
+}
+.Water-conservation-a-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:24;
+}
+.more-coming-up----{
+  position:relative;
+  z-index:26;
+  pointer-events:none;
+  margin-left:219px;
+  width:199px;
+  min-width:199px;
+  margin-top:-421px;
+  margin-bottom:391px;
+  min-height:30px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(125, 122, 122, 1);
+  font-style:normal;
+  font-family:Lato;
+  font-weight:300;
+  font-size:25px;
+  line-height:30px;
+}
+.more-coming-up-----outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:26;
+}
+.pave-footer-wave-2{
+  position:relative;
+  z-index:27;
+  pointer-events:none;
+  margin-left:0px;
+  width:1440px;
+  min-width:1440px;
+  height:191px;
+  margin-top:-191px;
+  margin-bottom:0px;
+  min-height:191px;
+  content:url(https://cdn.glitch.com/f66f0086-87b1-421f-a647-db43da8eccdc%2Fpave_footer_wave_2.png?v=1628443528448);
+}
+.pave-footer-wave-2-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:27;
+}

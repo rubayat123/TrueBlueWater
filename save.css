@@ -1,0 +1,1529 @@
+.websiteBody{
+  margin: 0;
+}.Page{
+  display:block;
+  margin:auto;
+  width:100%;
+  height:auto;
+  pointer-events:auto;
+}
+.Page-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:1;
+}
+.Frame{
+  position:relative;
+  z-index:2;
+  pointer-events:none;
+  width:100%;
+  margin-left:0;
+  min-width:200px;
+  max-width:1440px;
+  margin:auto;
+  background-color:rgba(255, 255, 255, 1);
+  overflow:hidden;
+}
+.Frame-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:2;
+}
+.Group-21{
+  position:relative;
+  z-index:18;
+  pointer-events:none;
+  margin-left:130px;
+  width:1310px;
+  min-width:1310px;
+  height:341px;
+  margin-top:0px;
+  margin-bottom:1573px;
+  min-height:341px;
+}
+.Group-21-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:18;
+}
+.Rectangle-4{
+  position:relative;
+  z-index:22;
+  pointer-events:none;
+  margin-left:514px;
+  width:796px;
+  min-width:796px;
+  height:77px;
+  margin-top:0px;
+  margin-bottom:264px;
+  min-height:77px;
+  background-color:rgba(238, 247, 242, 1);
+}
+.Rectangle-4-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:22;
+}
+.Group-4{
+  position:relative;
+  z-index:19;
+  pointer-events:none;
+  margin-left:0px;
+  width:392px;
+  min-width:392px;
+  height:330px;
+  margin-top:-330px;
+  margin-bottom:0px;
+  min-height:330px;
+}
+.Group-4-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:19;
+}
+.Screen-Shot-2021-08-{
+  position:relative;
+  z-index:21;
+  pointer-events:none;
+  margin-left:0px;
+  width:179px;
+  min-width:179px;
+  height:73px;
+  margin-top:0px;
+  margin-bottom:257px;
+  min-height:73px;
+  content:url(https://cdn.glitch.com/f66f0086-87b1-421f-a647-db43da8eccdc%2FScreen_Shot_2021_08_04_at_11_15_1.png?v=1628441442618);
+}
+.Screen-Shot-2021-08--outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:21;
+}
+.Screen-Shot-2021-08--1{
+  position:relative;
+  z-index:20;
+  pointer-events:none;
+  margin-left:20px;
+  width:372px;
+  min-width:372px;
+  height:322px;
+  margin-top:-322px;
+  margin-bottom:0px;
+  min-height:322px;
+}
+.Screen-Shot-2021-08--1-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:20;
+}
+.News{
+  position:relative;
+  z-index:25;
+  pointer-events:auto;
+  margin-left:1039px;
+  width:62px;
+  min-width:62px;
+  margin-top:-308px;
+  margin-bottom:278px;
+  min-height:30px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Lato;
+  font-weight:300;
+  font-size:25px;
+  line-height:30px;
+}
+.News-outer{
+  position:relative;
+  display:flex;
+  pointer-events:auto;
+  z-index:25;
+}
+.How-to-Save-Water{
+  position:relative;
+  z-index:24;
+  pointer-events:auto;
+  margin-left:784px;
+  width:211px;
+  min-width:211px;
+  margin-top:-308px;
+  margin-bottom:280px;
+  min-height:28px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Lato;
+  font-weight:300;
+  font-size:25px;
+  line-height:30px;
+}
+.How-to-Save-Water-outer{
+  position:relative;
+  display:flex;
+  pointer-events:auto;
+  z-index:24;
+}
+.Home{
+  position:relative;
+  z-index:23;
+  pointer-events:auto;
+  margin-left:674px;
+  width:66px;
+  min-width:66px;
+  margin-top:-308px;
+  margin-bottom:278px;
+  min-height:30px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Lato;
+  font-weight:300;
+  font-size:25px;
+  line-height:30px;
+}
+.Home-outer{
+  position:relative;
+  display:flex;
+  pointer-events:auto;
+  z-index:23;
+}
+.Resources{
+  position:relative;
+  z-index:26;
+  pointer-events:auto;
+  margin-left:1275px;
+  width:112px;
+  min-width:110px;
+  margin-top:-1881px;
+  margin-bottom:1851px;
+  min-height:30px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Lato;
+  font-weight:300;
+  font-size:25px;
+  line-height:30px;
+}
+.Resources-outer{
+  position:relative;
+  display:flex;
+  pointer-events:auto;
+  z-index:26;
+}
+.Rectangle-5{
+  position:relative;
+  z-index:27;
+  pointer-events:auto;
+  margin-left:0px;
+  width:1440px;
+  min-width:1440px;
+  height:64px;
+  margin-top:-1780px;
+  margin-bottom:1716px;
+  min-height:64px;
+  background-color:rgba(133, 200, 203, 1);
+}
+.Rectangle-5-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:27;
+}
+.Rectangle-8{
+  position:relative;
+  z-index:31;
+  pointer-events:none;
+  margin-left:461px;
+  width:259px;
+  min-width:259px;
+  height:40px;
+  margin-top:-1756px;
+  margin-bottom:1716px;
+  min-height:40px;
+  background-color:rgba(255, 255, 255, 1);
+}
+.Rectangle-8-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:31;
+}
+.Rectangle-6{
+  position:relative;
+  z-index:28;
+  pointer-events:none;
+  margin-left:461px;
+  width:259px;
+  min-width:259px;
+  height:40px;
+  margin-top:-1756px;
+  margin-bottom:1716px;
+  min-height:40px;
+  background-color:rgba(255, 255, 255, 1);
+}
+.Rectangle-6-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:28;
+}
+.Around-the-Yard{
+  position:relative;
+  z-index:33;
+  pointer-events:auto;
+  margin-left:771px;
+  width:197px;
+  min-width:197px;
+  margin-top:-1748px;
+  margin-bottom:1718px;
+  min-height:30px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Lao MN;
+  font-weight:700;
+  font-size:25px;
+  line-height:30px;
+}
+.Around-the-Yard-outer{
+  position:relative;
+  display:flex;
+  pointer-events:auto;
+  z-index:33;
+}
+.Around-the-House-2{
+  position:relative;
+  z-index:32;
+  pointer-events:none;
+  margin-left:479px;
+  width:225px;
+  min-width:225px;
+  margin-top:-1748px;
+  margin-bottom:1725px;
+  min-height:23px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Lao MN;
+  font-weight:700;
+  font-size:25px;
+  line-height:30px;
+}
+.Around-the-House-2-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:32;
+}
+.Around-the-Yard-1{
+  position:relative;
+  z-index:30;
+  pointer-events:auto;
+  margin-left:771px;
+  width:197px;
+  min-width:197px;
+  margin-top:-1748px;
+  margin-bottom:1718px;
+  min-height:30px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Lao MN;
+  font-weight:700;
+  font-size:25px;
+  line-height:30px;
+  visibility:hidden;
+}
+.Around-the-Yard-1-outer{
+  position:relative;
+  display:flex;
+  pointer-events:auto;
+  z-index:30;
+}
+.Around-the-House-3{
+  position:relative;
+  z-index:29;
+  pointer-events:none;
+  margin-left:479px;
+  width:225px;
+  min-width:225px;
+  margin-top:-1748px;
+  margin-bottom:1725px;
+  min-height:23px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Lao MN;
+  font-weight:700;
+  font-size:25px;
+  line-height:30px;
+}
+.Around-the-House-3-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:29;
+}
+.Group-12{
+  position:relative;
+  z-index:61;
+  pointer-events:none;
+  margin-left:100px;
+  width:1273px;
+  min-width:1273px;
+  height:148px;
+  margin-top:-1665px;
+  margin-bottom:1517px;
+  min-height:148px;
+}
+.Group-12-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:61;
+}
+.Rectangle-11{
+  position:relative;
+  z-index:64;
+  pointer-events:none;
+  margin-left:333px;
+  width:259px;
+  min-width:259px;
+  height:40px;
+  margin-top:0px;
+  margin-bottom:108px;
+  min-height:40px;
+  background-color:rgba(255, 255, 255, 1);
+}
+.Rectangle-11-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:64;
+}
+.Rectangle-10{
+  position:relative;
+  z-index:62;
+  pointer-events:none;
+  margin-left:333px;
+  width:259px;
+  min-width:259px;
+  height:40px;
+  margin-top:-148px;
+  margin-bottom:108px;
+  min-height:40px;
+  background-color:rgba(255, 255, 255, 1);
+}
+.Rectangle-10-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:62;
+}
+.Around-the-House-1{
+  position:relative;
+  z-index:63;
+  pointer-events:none;
+  margin-left:351px;
+  width:225px;
+  min-width:225px;
+  margin-top:-140px;
+  margin-bottom:117px;
+  min-height:23px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Lao MN;
+  font-weight:700;
+  font-size:25px;
+  line-height:30px;
+}
+.Around-the-House-1-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:63;
+}
+.Around-the-House{
+  position:relative;
+  z-index:65;
+  pointer-events:none;
+  margin-left:411px;
+  width:417px;
+  min-width:417px;
+  margin-top:-104px;
+  margin-bottom:74px;
+  min-height:30px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Lao MN;
+  font-weight:700;
+  font-size:48px;
+  line-height:30px;
+}
+.Around-the-House-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:65;
+}
+.Things-you-can-do-ar{
+  position:relative;
+  z-index:66;
+  pointer-events:none;
+  margin-left:390px;
+  width:463px;
+  min-width:463px;
+  margin-top:-56px;
+  margin-bottom:26px;
+  min-height:30px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(125, 122, 122, 1);
+  font-style:normal;
+  font-family:Lao MN;
+  font-weight:400;
+  font-size:18px;
+  line-height:30px;
+}
+.Things-you-can-do-ar-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:66;
+}
+.Line-1{
+  position:relative;
+  z-index:67;
+  pointer-events:none;
+  margin-left:0px;
+  width:1273px;
+  min-width:1273px;
+  margin-top:0px;
+  margin-bottom:0px;
+  min-height:undefinedpx;
+  border:1px solid rgba(0, 0, 0, 1);
+}
+.Line-1-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:67;
+}
+.Group-3{
+  position:relative;
+  z-index:9;
+  pointer-events:none;
+  margin-left:121px;
+  width:564px;
+  min-width:564px;
+  height:159px;
+  margin-top:-1446px;
+  margin-bottom:1287px;
+  min-height:159px;
+}
+.Group-3-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:9;
+}
+.Group-1-1{
+  position:relative;
+  z-index:11;
+  pointer-events:none;
+  margin-left:0px;
+  width:163px;
+  min-width:163px;
+  height:159px;
+  margin-top:0px;
+  margin-bottom:0px;
+  min-height:159px;
+}
+.Group-1-1-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:11;
+}
+.Ellipse-1-5{
+  position:relative;
+  z-index:12;
+  pointer-events:none;
+  margin-left:0px;
+  width:152px;
+  min-width:152px;
+  height:152px;
+  margin-top:0px;
+  margin-bottom:7px;
+  min-height:152px;
+  content:url(https://cdn.glitch.com/f66f0086-87b1-421f-a647-db43da8eccdc%2FEllipse_1_5.png?v=1628441443267);
+}
+.Ellipse-1-5-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:12;
+}
+.Ellipse-2-5{
+  position:relative;
+  z-index:13;
+  pointer-events:none;
+  margin-left:11px;
+  width:152px;
+  min-width:152px;
+  height:152px;
+  margin-top:-152px;
+  margin-bottom:0px;
+  min-height:152px;
+  content:url(https://cdn.glitch.com/f66f0086-87b1-421f-a647-db43da8eccdc%2FEllipse_2_5.png?v=1628441443477);
+}
+.Ellipse-2-5-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:13;
+}
+.Fill-Bathtub-Halfway{
+  position:relative;
+  z-index:14;
+  pointer-events:none;
+  margin-left:216px;
+  width:319px;
+  min-width:319px;
+  margin-top:-130px;
+  margin-bottom:100px;
+  min-height:30px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Lao MN;
+  font-weight:700;
+  font-size:24px;
+  line-height:30px;
+}
+.Fill-Bathtub-Halfway-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:14;
+}
+.Filling-up-your-bath{
+  position:relative;
+  z-index:10;
+  pointer-events:none;
+  margin-left:188px;
+  width:376px;
+  min-width:376px;
+  margin-top:-100px;
+  margin-bottom:40px;
+  min-height:60px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(125, 122, 122, 1);
+  font-style:normal;
+  font-family:Lao MN;
+  font-weight:400;
+  font-size:18px;
+  line-height:30px;
+}
+.Filling-up-your-bath-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:10;
+}
+.Ellipse-1-6{
+  position:relative;
+  z-index:7;
+  pointer-events:none;
+  margin-left:771px;
+  width:152px;
+  min-width:152px;
+  height:152px;
+  margin-top:-1446px;
+  margin-bottom:1294px;
+  min-height:152px;
+  content:url(https://cdn.glitch.com/f66f0086-87b1-421f-a647-db43da8eccdc%2FEllipse_1_6.png?v=1628441442372);
+}
+.Ellipse-1-6-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:7;
+}
+.Ellipse-2-6{
+  position:relative;
+  z-index:8;
+  pointer-events:none;
+  margin-left:782px;
+  width:152px;
+  min-width:152px;
+  height:152px;
+  margin-top:-1439px;
+  margin-bottom:1287px;
+  min-height:152px;
+  content:url(https://cdn.glitch.com/f66f0086-87b1-421f-a647-db43da8eccdc%2FEllipse_2_6.png?v=1628441443408);
+}
+.Ellipse-2-6-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:8;
+}
+.Install-Aerator{
+  position:relative;
+  z-index:36;
+  pointer-events:none;
+  margin-left:1083px;
+  width:165px;
+  min-width:165px;
+  margin-top:-1409px;
+  margin-bottom:1379px;
+  min-height:30px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Lao MN;
+  font-weight:700;
+  font-size:24px;
+  line-height:30px;
+}
+.Install-Aerator-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:36;
+}
+.Installing-aerators-{
+  position:relative;
+  z-index:6;
+  pointer-events:none;
+  margin-left:978px;
+  width:376px;
+  min-width:376px;
+  margin-top:-1373px;
+  margin-bottom:1313px;
+  min-height:60px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(125, 122, 122, 1);
+  font-style:normal;
+  font-family:Lao MN;
+  font-weight:400;
+  font-size:18px;
+  line-height:30px;
+}
+.Installing-aerators--outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:6;
+}
+.Group-1{
+  position:relative;
+  z-index:15;
+  pointer-events:none;
+  margin-left:776px;
+  width:163px;
+  min-width:163px;
+  height:159px;
+  margin-top:-1183px;
+  margin-bottom:1024px;
+  min-height:159px;
+}
+.Group-1-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:15;
+}
+.Ellipse-1-4{
+  position:relative;
+  z-index:16;
+  pointer-events:none;
+  margin-left:0px;
+  width:152px;
+  min-width:152px;
+  height:152px;
+  margin-top:0px;
+  margin-bottom:7px;
+  min-height:152px;
+  content:url(https://cdn.glitch.com/f66f0086-87b1-421f-a647-db43da8eccdc%2FEllipse_1_4.png?v=1628441442528);
+}
+.Ellipse-1-4-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:16;
+}
+.Ellipse-2-4{
+  position:relative;
+  z-index:17;
+  pointer-events:none;
+  margin-left:11px;
+  width:152px;
+  min-width:152px;
+  height:152px;
+  margin-top:-152px;
+  margin-bottom:0px;
+  min-height:152px;
+  content:url(https://cdn.glitch.com/f66f0086-87b1-421f-a647-db43da8eccdc%2FEllipse_2_4.png?v=1628441443796);
+}
+.Ellipse-2-4-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:17;
+}
+.Ellipse-1-7{
+  position:relative;
+  z-index:3;
+  pointer-events:none;
+  margin-left:121px;
+  width:152px;
+  min-width:152px;
+  height:152px;
+  margin-top:-1183px;
+  margin-bottom:1031px;
+  min-height:152px;
+  content:url(https://cdn.glitch.com/f66f0086-87b1-421f-a647-db43da8eccdc%2FEllipse_1_7.png?v=1628441443078);
+}
+.Ellipse-1-7-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:3;
+}
+.Ellipse-2-7{
+  position:relative;
+  z-index:4;
+  pointer-events:none;
+  margin-left:132px;
+  width:152px;
+  min-width:152px;
+  height:152px;
+  margin-top:-1176px;
+  margin-bottom:1024px;
+  min-height:152px;
+  content:url(https://cdn.glitch.com/f66f0086-87b1-421f-a647-db43da8eccdc%2FEllipse_2_7.png?v=1628441443021);
+}
+.Ellipse-2-7-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:4;
+}
+.Install-High-Efficie{
+  position:relative;
+  z-index:35;
+  pointer-events:none;
+  margin-left:997px;
+  width:337px;
+  min-width:337px;
+  margin-top:-1149px;
+  margin-bottom:1119px;
+  min-height:30px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Lao MN;
+  font-weight:700;
+  font-size:24px;
+  line-height:30px;
+}
+.Install-High-Efficie-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:35;
+}
+.Fix-Leaks{
+  position:relative;
+  z-index:42;
+  pointer-events:none;
+  margin-left:433px;
+  width:114px;
+  min-width:114px;
+  margin-top:-1146px;
+  margin-bottom:1119px;
+  min-height:27px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Lao MN;
+  font-weight:700;
+  font-size:24px;
+  line-height:30px;
+}
+.Fix-Leaks-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:42;
+}
+.Fixing-leaks-can-sav{
+  position:relative;
+  z-index:5;
+  pointer-events:none;
+  margin-left:309px;
+  width:376px;
+  min-width:376px;
+  margin-top:-1119px;
+  margin-bottom:1059px;
+  min-height:60px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(125, 122, 122, 1);
+  font-style:normal;
+  font-family:Lao MN;
+  font-weight:400;
+  font-size:18px;
+  line-height:30px;
+}
+.Fixing-leaks-can-sav-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:5;
+}
+.Installing-high-effi{
+  position:relative;
+  z-index:34;
+  pointer-events:none;
+  margin-left:978px;
+  width:376px;
+  min-width:376px;
+  margin-top:-1108px;
+  margin-bottom:1048px;
+  min-height:60px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(125, 122, 122, 1);
+  font-style:normal;
+  font-family:Lao MN;
+  font-weight:400;
+  font-size:18px;
+  line-height:30px;
+}
+.Installing-high-effi-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:34;
+}
+.Group-8{
+  position:relative;
+  z-index:43;
+  pointer-events:none;
+  margin-left:121px;
+  width:564px;
+  min-width:564px;
+  height:203px;
+  margin-top:-920px;
+  margin-bottom:717px;
+  min-height:203px;
+}
+.Group-8-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:43;
+}
+.Group-5-2{
+  position:relative;
+  z-index:44;
+  pointer-events:none;
+  margin-left:0px;
+  width:163px;
+  min-width:163px;
+  height:159px;
+  margin-top:0px;
+  margin-bottom:44px;
+  min-height:159px;
+}
+.Group-5-2-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:44;
+}
+.Ellipse-1-2{
+  position:relative;
+  z-index:45;
+  pointer-events:none;
+  margin-left:0px;
+  width:152px;
+  min-width:152px;
+  height:152px;
+  margin-top:0px;
+  margin-bottom:7px;
+  min-height:152px;
+  content:url(https://cdn.glitch.com/f66f0086-87b1-421f-a647-db43da8eccdc%2FEllipse_1_2.png?v=1628441442372);
+}
+.Ellipse-1-2-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:45;
+}
+.Ellipse-2-2{
+  position:relative;
+  z-index:46;
+  pointer-events:none;
+  margin-left:11px;
+  width:152px;
+  min-width:152px;
+  height:152px;
+  margin-top:-152px;
+  margin-bottom:0px;
+  min-height:152px;
+  content:url(https://cdn.glitch.com/f66f0086-87b1-421f-a647-db43da8eccdc%2FEllipse_2_2.png?v=1628441443113);
+}
+.Ellipse-2-2-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:46;
+}
+.Take-5-minute-Shower{
+  position:relative;
+  z-index:48;
+  pointer-events:none;
+  margin-left:241px;
+  width:269px;
+  min-width:269px;
+  margin-top:-157px;
+  margin-bottom:127px;
+  min-height:30px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Lao MN;
+  font-weight:700;
+  font-size:24px;
+  line-height:30px;
+}
+.Take-5-minute-Shower-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:48;
+}
+.Keeping-showers-unde{
+  position:relative;
+  z-index:47;
+  pointer-events:none;
+  margin-left:188px;
+  width:376px;
+  min-width:376px;
+  margin-top:-120px;
+  margin-bottom:0px;
+  min-height:120px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(125, 122, 122, 1);
+  font-style:normal;
+  font-family:Lao MN;
+  font-weight:400;
+  font-size:18px;
+  line-height:30px;
+}
+.Keeping-showers-unde-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:47;
+}
+.Group-9{
+  position:relative;
+  z-index:38;
+  pointer-events:none;
+  margin-left:771px;
+  width:163px;
+  min-width:163px;
+  height:159px;
+  margin-top:-920px;
+  margin-bottom:761px;
+  min-height:159px;
+}
+.Group-9-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:38;
+}
+.Ellipse-1-3{
+  position:relative;
+  z-index:39;
+  pointer-events:none;
+  margin-left:0px;
+  width:152px;
+  min-width:152px;
+  height:152px;
+  margin-top:0px;
+  margin-bottom:7px;
+  min-height:152px;
+  content:url(https://cdn.glitch.com/f66f0086-87b1-421f-a647-db43da8eccdc%2FEllipse_1_3.png?v=1628441442372);
+}
+.Ellipse-1-3-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:39;
+}
+.Ellipse-2-3{
+  position:relative;
+  z-index:40;
+  pointer-events:none;
+  margin-left:11px;
+  width:152px;
+  min-width:152px;
+  height:152px;
+  margin-top:-152px;
+  margin-bottom:0px;
+  min-height:152px;
+  content:url(https://cdn.glitch.com/f66f0086-87b1-421f-a647-db43da8eccdc%2FEllipse_2_3.png?v=1628441444005);
+}
+.Ellipse-2-3-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:40;
+}
+.Recycle-Indoor-Water{
+  position:relative;
+  z-index:41;
+  pointer-events:none;
+  margin-left:971px;
+  width:406px;
+  min-width:406px;
+  margin-top:-889px;
+  margin-bottom:829px;
+  min-height:60px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Lao MN;
+  font-weight:700;
+  font-size:24px;
+  line-height:30px;
+}
+.Recycle-Indoor-Water-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:41;
+}
+.Recycling-indoor-wat{
+  position:relative;
+  z-index:37;
+  pointer-events:none;
+  margin-left:978px;
+  width:376px;
+  min-width:376px;
+  margin-top:-821px;
+  margin-bottom:761px;
+  min-height:60px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(125, 122, 122, 1);
+  font-style:normal;
+  font-family:Lao MN;
+  font-weight:400;
+  font-size:18px;
+  line-height:30px;
+}
+.Recycling-indoor-wat-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:37;
+}
+.Group-11{
+  position:relative;
+  z-index:55;
+  pointer-events:none;
+  margin-left:776px;
+  width:586px;
+  min-width:586px;
+  height:159px;
+  margin-top:-613px;
+  margin-bottom:454px;
+  min-height:159px;
+}
+.Group-11-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:55;
+}
+.Group-5{
+  position:relative;
+  z-index:56;
+  pointer-events:none;
+  margin-left:0px;
+  width:163px;
+  min-width:163px;
+  height:159px;
+  margin-top:0px;
+  margin-bottom:0px;
+  min-height:159px;
+}
+.Group-5-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:56;
+}
+.Ellipse-1{
+  position:relative;
+  z-index:57;
+  pointer-events:none;
+  margin-left:0px;
+  width:152px;
+  min-width:152px;
+  height:152px;
+  margin-top:0px;
+  margin-bottom:7px;
+  min-height:152px;
+  content:url(https://cdn.glitch.com/f66f0086-87b1-421f-a647-db43da8eccdc%2FEllipse_1.png?v=1628441443164);
+}
+.Ellipse-1-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:57;
+}
+.Ellipse-2{
+  position:relative;
+  z-index:58;
+  pointer-events:none;
+  margin-left:11px;
+  width:152px;
+  min-width:152px;
+  height:152px;
+  margin-top:-152px;
+  margin-bottom:0px;
+  min-height:152px;
+  content:url(https://cdn.glitch.com/f66f0086-87b1-421f-a647-db43da8eccdc%2FEllipse_2.png?v=1628441442639);
+}
+.Ellipse-2-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:58;
+}
+.Turn-Off-Water-When-{
+  position:relative;
+  z-index:60;
+  pointer-events:none;
+  margin-left:221px;
+  width:353px;
+  min-width:353px;
+  margin-top:-126px;
+  margin-bottom:66px;
+  min-height:60px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Lao MN;
+  font-weight:700;
+  font-size:24px;
+  line-height:30px;
+}
+.Turn-Off-Water-When--outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:60;
+}
+.Saves-10-gallons-per{
+  position:relative;
+  z-index:59;
+  pointer-events:none;
+  margin-left:210px;
+  width:376px;
+  min-width:376px;
+  margin-top:-62px;
+  margin-bottom:32px;
+  min-height:30px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(125, 122, 122, 1);
+  font-style:normal;
+  font-family:Lao MN;
+  font-weight:400;
+  font-size:18px;
+  line-height:30px;
+}
+.Saves-10-gallons-per-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:59;
+}
+.Group-10{
+  position:relative;
+  z-index:49;
+  pointer-events:none;
+  margin-left:121px;
+  width:583px;
+  min-width:583px;
+  height:159px;
+  margin-top:-613px;
+  margin-bottom:454px;
+  min-height:159px;
+}
+.Group-10-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:49;
+}
+.Group-5-1{
+  position:relative;
+  z-index:50;
+  pointer-events:none;
+  margin-left:0px;
+  width:163px;
+  min-width:163px;
+  height:159px;
+  margin-top:0px;
+  margin-bottom:0px;
+  min-height:159px;
+}
+.Group-5-1-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:50;
+}
+.Ellipse-1-1{
+  position:relative;
+  z-index:51;
+  pointer-events:none;
+  margin-left:0px;
+  width:152px;
+  min-width:152px;
+  height:152px;
+  margin-top:0px;
+  margin-bottom:7px;
+  min-height:152px;
+  content:url(https://cdn.glitch.com/f66f0086-87b1-421f-a647-db43da8eccdc%2FEllipse_1_1.png?v=1628441442372);
+}
+.Ellipse-1-1-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:51;
+}
+.Ellipse-2-1{
+  position:relative;
+  z-index:52;
+  pointer-events:none;
+  margin-left:11px;
+  width:152px;
+  min-width:152px;
+  height:152px;
+  margin-top:-152px;
+  margin-bottom:0px;
+  min-height:152px;
+  content:url(https://cdn.glitch.com/f66f0086-87b1-421f-a647-db43da8eccdc%2FEllipse_2_1.png?v=1628441443238);
+}
+.Ellipse-2-1-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:52;
+}
+.Wash-Full-Loads-of-C{
+  position:relative;
+  z-index:54;
+  pointer-events:none;
+  margin-left:241px;
+  width:313px;
+  min-width:313px;
+  margin-top:-126px;
+  margin-bottom:66px;
+  min-height:60px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Lao MN;
+  font-weight:700;
+  font-size:24px;
+  line-height:30px;
+}
+.Wash-Full-Loads-of-C-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:54;
+}
+.Washer--saves-15-45-{
+  position:relative;
+  z-index:53;
+  pointer-events:none;
+  margin-left:207px;
+  width:376px;
+  min-width:376px;
+  margin-top:-66px;
+  margin-bottom:6px;
+  min-height:60px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(125, 122, 122, 1);
+  font-style:normal;
+  font-family:Lao MN;
+  font-weight:400;
+  font-size:18px;
+  line-height:30px;
+}
+.Washer--saves-15-45--outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:53;
+}
+.Group-33{
+  position:relative;
+  z-index:68;
+  pointer-events:none;
+  margin-left:-165px;
+  width:1770px;
+  min-width:1770px;
+  height:170px;
+  margin-top:-170px;
+  margin-bottom:0px;
+  min-height:170px;
+}
+.Group-33-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:68;
+}
+.Frame-29{
+  position:relative;
+  z-index:69;
+  pointer-events:none;
+  margin-left:0px;
+  width:1770px;
+  min-width:1770px;
+  height:170px;
+  margin-top:0px;
+  margin-bottom:0px;
+  min-height:170px;
+  background-image:url(https://cdn.glitch.com/f66f0086-87b1-421f-a647-db43da8eccdc%2FFrame_29.png?v=1628441443293);
+  background-position:center;
+  background-size:cover;
+  background-repeat:no-repeat;
+}
+.Frame-29-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:69;
+}
+.Footer-social-icons-{
+  position:relative;
+  z-index:70;
+  pointer-events:none;
+  margin-left:691px;
+  width:388px;
+  min-width:388px;
+  height:170px;
+  margin-top:0px;
+  margin-bottom:0px;
+  min-height:170px;
+  content:url(https://cdn.glitch.com/f66f0086-87b1-421f-a647-db43da8eccdc%2FFooter_social_icons_1.png?v=1628441442975);
+}
+.Footer-social-icons--outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:70;
+}
